@@ -1180,10 +1180,10 @@
         "collapsible_row_A96QyT": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Sind sie rutschfest?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Die <strong>SOLYDIA</strong> MaxOne sind SRC-zertifiziert, der strengsten Rutschfestigkeitsnorm in Europa. Das bedeutet, dass sie getestet und zugelassen wurden auf:</p><ul><li><strong>Nassen Fliesenböden (SR)<br/></strong></li><li><strong>Stahlböden mit Glycerin (SC)</strong><br/></li></ul><p>Die SRC-Zertifizierung kombiniert beide Tests und garantiert maximalen Halt auf allen Oberflächen – egal ob nass, fettig oder ölig. Wenn Ihr Job rutschfestes Schuhwerk erfordert, erfüllt der S3-Standard diese Anforderungen vollständig.</p>",
             "page": ""
           }
         },
