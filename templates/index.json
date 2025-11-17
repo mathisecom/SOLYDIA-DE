@@ -935,9 +935,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Contact form",
+        "title": "IRGENDEINE FRAGE?",
         "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "button_full_width": true,
         "color_scheme": "custom",
         "success_icon": "check_circle",
