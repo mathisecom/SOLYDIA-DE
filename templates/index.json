@@ -666,14 +666,14 @@
         "collapsible_tab_NGWEMr": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Garantie & Rücksendungen",
             "heading_size": "medium",
             "icon": "reply",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p><strong>30-Tage-Test in Ihrer Arbeitsumgebung.</strong><br/><br/>Wenn unsere Sneaker nicht Ihren Erwartungen entsprechen, bieten wir eine vollständige Rückerstattung an.</p><p><strong>12 Monate Herstellergarantie</strong><br/><br/>Die Garantie deckt alle Material- und Designfehler ab. Sollte es zu Problemen kommen, senden wir Ihnen kostenlos ein Ersatzpaar.</p><p><strong>Kostenlose Größenumtausch innerhalb von 14 Tagen nach Erhalt.</strong></p><p><strong>Einfache Rücksendung:</strong><br/><br/>Kontaktieren Sie unseren Kundenservice mit Ihrer Bestellnummer, und wir übernehmen die gesamten Rücksendekosten.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
