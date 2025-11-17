@@ -1266,6 +1266,16 @@
             "row_content": "<p>Unsere Größen entsprechen den standardmäßigen europäischen Größen. Wenn Sie zwischen zwei Größen liegen, empfehlen wir, die größere Größe für zusätzlichen Komfort zu wählen. </p><p>Sehen Sie sich unsere detaillierte Größentabelle mit Zentimeterangaben an, die unter den Produktfotos verfügbar ist.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_aFz3QE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Garantie & Rückgabe",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Unsere 12-monatige Garantie deckt alle Herstellungs- und Materialfehler ab. Normale Abnutzung durch den täglichen Gebrauch ist nicht enthalten. </p><p>Sollte ein Problem auftreten, senden Sie uns einfach ein Foto und eine Beschreibung, und wir stellen bei bestätigtem Defekt einen kostenlosen Ersatz zur Verfügung.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1277,7 +1287,8 @@
         "collapsible_row_kP4zXz",
         "collapsible_row_JXixDx",
         "collapsible_row_e9DpK7",
-        "collapsible_row_T434tY"
+        "collapsible_row_T434tY",
+        "collapsible_row_aFz3QE"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
