@@ -77,9 +77,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Featured on",
+        "title": "BEREITS GESEHEN AUF",
         "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "gray_logos": false,
         "color_scheme": "background-1",
         "layout": "horizontal",
