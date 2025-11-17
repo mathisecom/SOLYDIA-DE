@@ -9,65 +9,31 @@
  */
 {
   "sections": {
-    "cfca4268-6358-426c-98ab-d292aeef11e5": {
-      "type": "slideshow",
-      "blocks": {
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
-          "type": "slide",
-          "settings": {
-            "image_overlay_opacity": 0,
-            "heading": "",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "atc_skip_cart": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center",
-            "custom_colors_background": "#ffffff",
-            "custom_gradient_background": "",
-            "custom_colors_text": "#2e2a39",
-            "custom_colors_solid_button_background": "#dd1d1d",
-            "custom_colors_solid_button_text": "#ffffff",
-            "custom_colors_outline_button": "#dd1d1d"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1"
-      ],
+    "image_banner_CWeh3y": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
       "settings": {
+        "display_id": false,
         "visibility": "always-display",
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "dots",
-        "desktop_pagination_position": "over",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "mobile_pagination_position": "under",
-        "accessibility_info": "Slideshow about our brand"
+        "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/MEILLEURE_OFFRE_DE_L_ANNEe_7.jpg",
+        "image_2_visibility": "desktop-hidden",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "logo_list_mgXUmm": {
       "type": "logo-list",
       "blocks": {
-        "logo_7NVaey": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/natgeo_logo.webp",
-            "link": "",
-            "target_blank": false
-          }
-        },
         "logo_M8hMB3": {
           "type": "logo",
           "settings": {
@@ -91,13 +57,21 @@
             "link": "",
             "target_blank": false
           }
+        },
+        "logo_7NVaey": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/natgeo_logo.webp",
+            "link": "",
+            "target_blank": false
+          }
         }
       },
       "block_order": [
-        "logo_7NVaey",
         "logo_M8hMB3",
         "logo_JwMRia",
-        "logo_ii9pWi"
+        "logo_ii9pWi",
+        "logo_7NVaey"
       ],
       "name": "Featured on",
       "settings": {
@@ -121,54 +95,6 @@
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
-      }
-    },
-    "slideshow_jEBXHm": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_ne4ep7": {
-          "type": "slide",
-          "settings": {
-            "image_overlay_opacity": 0,
-            "heading": "",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "atc_skip_cart": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center",
-            "custom_colors_background": "#ffffff",
-            "custom_gradient_background": "",
-            "custom_colors_text": "#2e2a39",
-            "custom_colors_solid_button_background": "#dd1d1d",
-            "custom_colors_solid_button_text": "#ffffff",
-            "custom_colors_outline_button": "#dd1d1d"
-          }
-        }
-      },
-      "block_order": [
-        "slide_ne4ep7"
-      ],
-      "settings": {
-        "visibility": "always-display",
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "dots",
-        "desktop_pagination_position": "over",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "mobile_pagination_position": "under",
-        "accessibility_info": "Slideshow about our brand"
       }
     },
     "image_slider_VC3qxm": {
@@ -1025,9 +951,8 @@
     }
   },
   "order": [
-    "cfca4268-6358-426c-98ab-d292aeef11e5",
+    "image_banner_CWeh3y",
     "logo_list_mgXUmm",
-    "slideshow_jEBXHm",
     "image_slider_VC3qxm",
     "multicolumn_hQYqD3",
     "featured_product_87TDcn",
