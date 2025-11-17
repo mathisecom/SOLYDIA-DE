@@ -364,6 +364,49 @@
         "custom_cards_colors_text": "#2e2a39"
       }
     },
+    "horizontal_ticker_RD8Gh9": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_hPK74G": {
+          "type": "text",
+          "settings": {
+            "title": "BLACK FRIDAY ANGEBOT"
+          }
+        }
+      },
+      "block_order": [
+        "text_hPK74G"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3.5,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 14,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "featured_product_87TDcn": {
       "type": "featured-product",
       "blocks": {
@@ -1100,6 +1143,7 @@
     "image_banner_T3FU44",
     "image_slider_VC3qxm",
     "multicolumn_hQYqD3",
+    "horizontal_ticker_RD8Gh9",
     "featured_product_87TDcn",
     "image_with_text_6BYYqf",
     "icon_bar_G3N84b",
