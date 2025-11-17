@@ -832,12 +832,13 @@
         "text_LhbMhT": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Wenn unsere Schuhe dein Arbeitserlebnis nicht vollständig verbessern, sende sie innerhalb von 30 Tagen zurück. Volle Rückerstattung, ohne Fragen. </p><p><strong>Denn dein Komfort bei der Arbeit sollte niemals verhandelbar sein.</strong></p>",
             "text_style": "body"
           }
         },
         "button_F33dGU": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
