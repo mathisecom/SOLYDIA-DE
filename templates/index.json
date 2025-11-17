@@ -1210,10 +1210,20 @@
         "collapsible_row_YHNgqX": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Wie funktioniert das rotierende Schnürsystem?",
             "icon": "",
             "filled_icon": false,
             "row_content": "<p>Das rotierende Schnürsystem funktioniert über einen Drehknopf: Im Uhrzeigersinn drehen, um den Schuh zu schließen, gegen den Uhrzeigersinn, um ihn zu lockern. </p><p>Diese Technologie ermöglicht eine präzise, millimetergenaue Anpassung in nur 2 Sekunden und bietet deutlich mehr Geschwindigkeit und Genauigkeit im Vergleich zu herkömmlichen Schnürsenkeln.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BzpehB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Was ist der Unterschied zu meinen aktuellen Sicherheitsschuhen?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Unsere Sneaker sind 45 % leichter als herkömmliche Sicherheitsschuhe und bieten dennoch den gleichen S3-Schutz. </p><p>Die Einlegesohle aus hochdichtem Memory-Schaum beseitigt Fußschmerzen, und das moderne Design sieht aus wie echte Sneaker. </p><p>Sie erhalten das gleiche Sicherheitsniveau bei revolutionärem Komfort und Stil.</p>",
             "page": ""
           }
         }
@@ -1222,7 +1232,8 @@
         "collapsible_row_A96QyT",
         "collapsible_row_N393dB",
         "collapsible_row_XyEa7X",
-        "collapsible_row_YHNgqX"
+        "collapsible_row_YHNgqX",
+        "collapsible_row_BzpehB"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
