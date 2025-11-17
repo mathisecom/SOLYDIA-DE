@@ -474,6 +474,12 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_Hq8mWQ": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div data-rapi-id=\"rapi_643d1b321acb58\"></div>"
+          }
+        },
         "custom_liquid_eVGiyU": {
           "type": "custom_liquid",
           "settings": {
@@ -678,6 +684,7 @@
         "trustpilot_stars_ALYQED",
         "title_J83CNA",
         "text_nktENf",
+        "custom_liquid_Hq8mWQ",
         "custom_liquid_eVGiyU",
         "buy_buttons_9dAaXi",
         "custom_liquid_L8pmCr",
