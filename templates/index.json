@@ -1325,6 +1325,30 @@
         "custom_contaner_colors_text": "#2e2a39"
       }
     },
+    "1763421395d22f8b83": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_Hgrghe": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "solydia",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_Hgrghe"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
     "contact_form_WHP8G7": {
       "type": "contact-form",
       "blocks": {
@@ -1419,6 +1443,7 @@
     "image_with_text_6VyrVx",
     "comparison_table_CXrDcB",
     "collapsible_content_MWkQgn",
+    "1763421395d22f8b83",
     "contact_form_WHP8G7"
   ]
 }
