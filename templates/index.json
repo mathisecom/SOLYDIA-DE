@@ -514,10 +514,13 @@
             "display_arrows": false,
             "display_dots": true,
             "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/Avis-BoaShoes-2_ba7183aa-6b64-4e3c-8aae-4c609f50eeee_1.webp",
             "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
             "author_2": "<em>Author</em> [stars]",
+            "image_2": "shopify://shop_images/Titre_24_1.jpg",
             "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
             "author_3": "<em>Author</em> [stars]",
+            "image_3": "shopify://shop_images/Titre_23_1.jpg",
             "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
             "margin_top": 24,
             "margin_bottom": 24
