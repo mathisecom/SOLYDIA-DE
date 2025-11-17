@@ -57,6 +57,120 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "logo_list_mgXUmm": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_7NVaey": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/natgeo_logo.webp",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_M8hMB3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/forbes2.svg",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_JwMRia": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/gq_logo.webp",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_ii9pWi": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/celuieaaz.avif",
+            "link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "logo_7NVaey",
+        "logo_M8hMB3",
+        "logo_JwMRia",
+        "logo_ii9pWi"
+      ],
+      "name": "Featured on",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Featured on",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "gray_logos": false,
+        "color_scheme": "background-1",
+        "layout": "horizontal",
+        "desktop_logo_height": 50,
+        "columns_mobile": 2,
+        "mobile_logo_height": 50,
+        "mobile_slider": true,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "show_dots": true,
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "slideshow_jEBXHm": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_ne4ep7": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#ffffff",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2e2a39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        }
+      },
+      "block_order": [
+        "slide_ne4ep7"
+      ],
+      "settings": {
+        "visibility": "always-display",
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "desktop_pagination_position": "over",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "mobile_pagination_position": "under",
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "image_slider_VC3qxm": {
       "type": "image-slider",
       "blocks": {
@@ -912,6 +1026,8 @@
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
+    "logo_list_mgXUmm",
+    "slideshow_jEBXHm",
     "image_slider_VC3qxm",
     "multicolumn_hQYqD3",
     "featured_product_87TDcn",
