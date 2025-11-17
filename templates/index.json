@@ -1226,6 +1226,16 @@
             "row_content": "<p>Unsere Sneaker sind 45 % leichter als herkömmliche Sicherheitsschuhe und bieten dennoch den gleichen S3-Schutz. </p><p>Die Einlegesohle aus hochdichtem Memory-Schaum beseitigt Fußschmerzen, und das moderne Design sieht aus wie echte Sneaker. </p><p>Sie erhalten das gleiche Sicherheitsniveau bei revolutionärem Komfort und Stil.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_kP4zXz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Erfüllen die SOLYDIA wirklich den S3-Standard?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Unsere Sneaker sind nach der europäischen Norm EN ISO 20345 S3 zertifiziert, was eine Stahlkappe mit 200 J Stoßfestigkeit, eine Kevlar-Anti-Penetrationssohle, Wasserbeständigkeit und antistatische Eigenschaften garantiert. </p><p>Alle Tests werden von unabhängigen Zertifizierungsstellen überprüft.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1233,7 +1243,8 @@
         "collapsible_row_N393dB",
         "collapsible_row_XyEa7X",
         "collapsible_row_YHNgqX",
-        "collapsible_row_BzpehB"
+        "collapsible_row_BzpehB",
+        "collapsible_row_kP4zXz"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
