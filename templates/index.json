@@ -1174,7 +1174,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
@@ -1184,7 +1184,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
@@ -1194,7 +1194,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
@@ -1204,7 +1204,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
