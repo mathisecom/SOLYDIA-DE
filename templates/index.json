@@ -233,6 +233,7 @@
         "column_xBHh3M": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/1750679902__0__Hs4_OgOy__IMG-20250623-WA0015__original_2.avif",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -243,6 +244,7 @@
         "column_bpKxi7": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/zNRM-t9IC.jpg",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -253,6 +255,7 @@
         "column_GE78mQ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_d2isqvd2isqvd2is_1.webp",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -263,6 +266,7 @@
         "column_Mdrj4a": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Titre_17_fc27e648-cdc4-4a93-94b8-3f10cf79ce22.jpg",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -273,6 +277,7 @@
         "column_jpnxVq": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/fDklscE5Sj6HezY_1.jpg",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -283,6 +288,7 @@
         "column_TGPgwR": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/CTSpQRWtYbA5Xyz.jpg",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
