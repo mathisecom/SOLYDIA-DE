@@ -824,9 +824,9 @@
         "heading_egcPFT": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h1"
+            "title": "UNSERE <strong>PROFESSIONELLE GARANTIE</strong>",
+            "title_highlight_color": "#ffd705",
+            "heading_size": "h2"
           }
         },
         "text_LhbMhT": {
