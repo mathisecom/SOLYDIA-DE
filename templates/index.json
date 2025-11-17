@@ -164,7 +164,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "TESTED IN <strong>REAL-WORLD CONDITIONS!</strong>",
+        "title": "<strong>GETESTET UNTER</strong> REALEN BEDINGUNGEN!",
         "title_highlight_color": "#ffd705",
         "heading_size": "h2",
         "color_scheme": "background-1",
