@@ -37,6 +37,15 @@
             "width_mobile": "2"
           }
         },
+        "text_cDfQVW": {
+          "type": "text",
+          "settings": {
+            "heading": "KUNDENSERVICE",
+            "subtext": "<p>E-Mail: hello@solydia.com</p><p>Hours: Montag bis Freitag von 9 bis 12 Uhr und von 14 bis 18 Uhr / Samstag und Sonntag von 10 bis 12 Uhr</p>",
+            "width_desktop": 3,
+            "width_mobile": "2"
+          }
+        },
         "1c647602-cc00-4009-a058-976435c8ee9e": {
           "type": "link_list",
           "settings": {
@@ -50,6 +59,7 @@
       "block_order": [
         "fc645871-d789-4cfa-8584-4f8a29b6ce92",
         "24f208fd-0898-43eb-af23-d74f8420ab37",
+        "text_cDfQVW",
         "1c647602-cc00-4009-a058-976435c8ee9e"
       ],
       "settings": {
