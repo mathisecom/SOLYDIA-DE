@@ -634,14 +634,14 @@
         "collapsible_tab_6iWNEW": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Für welche Umgebungen?",
             "heading_size": "medium",
             "icon": "nest_eco_leaf",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p><strong>Die SOLYDIA-Schuhe sind S3-zertifiziert und somit für alle anspruchsvollen Arbeitsumgebungen geeignet:</strong></p><p>✓ Harte Böden (Beton, Fliesen, Asphalt)<br/><br/>✓ Langes Stehen (6–12+ Stunden)<br/><br/>✓ Intensive Gehbelastung (mehr als 10.000 Schritte/Tag)<br/><br/>✓ Umgang mit schweren Lasten<br/><br/>✓ Nasse oder fettige Oberflächen (SRC-zertifiziert)<br/><br/>✓ Risiko von herabfallenden Objekten<br/><br/>✓ Risiko von Durchstichen</p><p>Ob drinnen oder draußen, sie erfüllen alle Anforderungen der S3-Zertifizierung.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
