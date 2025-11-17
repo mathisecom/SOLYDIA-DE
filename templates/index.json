@@ -105,6 +105,7 @@
         "display_id": false,
         "visibility": "always-display",
         "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/Titre_46.jpg",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
