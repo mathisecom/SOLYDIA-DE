@@ -1256,6 +1256,16 @@
             "row_content": "<p>Obwohl sie wie Sneaker aussehen, bestehen unsere Schuhe aus hochfesten Industriewerkstoffen: verstärktes Mesh, versiegelte Nähte und eine professionelle rutschfeste Sohle. </p><p>Sie sind resistent gegen Schlamm, Staub und Spritzer und dennoch leicht zu reinigen.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_T434tY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wie wähle ich meine Größe?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Unsere Größen entsprechen den standardmäßigen europäischen Größen. Wenn Sie zwischen zwei Größen liegen, empfehlen wir, die größere Größe für zusätzlichen Komfort zu wählen. </p><p>Sehen Sie sich unsere detaillierte Größentabelle mit Zentimeterangaben an, die unter den Produktfotos verfügbar ist.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1266,7 +1276,8 @@
         "collapsible_row_BzpehB",
         "collapsible_row_kP4zXz",
         "collapsible_row_JXixDx",
-        "collapsible_row_e9DpK7"
+        "collapsible_row_e9DpK7",
+        "collapsible_row_T434tY"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
