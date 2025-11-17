@@ -884,6 +884,132 @@
         "custom_section_gradient_background": ""
       }
     },
+    "comparison_table_CXrDcB": {
+      "type": "comparison-table",
+      "blocks": {
+        "row_eTHtUQ": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_4qNdgn": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_8VThzc": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_kVkdAG": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_KjWMbF": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        }
+      },
+      "block_order": [
+        "row_eTHtUQ",
+        "row_4qNdgn",
+        "row_8VThzc",
+        "row_kVkdAG",
+        "row_KjWMbF"
+      ],
+      "name": "Comparison table",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "DIE VORTEILE, DIE DEN <strong>UNTERSCHIED MACHEN</strong>",
+        "title_highlight_color": "#ffd705",
+        "heading_size": "h2",
+        "text": "",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "desktop_alignment": "center",
+        "mobile_alignment": "center",
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "minimal",
+        "corner_radius": 20,
+        "number_of_competitors": 1,
+        "us_label": "SOLYDIA",
+        "us_label_size": 14,
+        "logo_width": 90,
+        "mobile_logo_width": 60,
+        "others_label": "Others",
+        "others_label_size": 18,
+        "others_logo_width": 90,
+        "others_mobile_logo_width": 60,
+        "others_2_label": "Competitor 2",
+        "others_2_label_size": 18,
+        "others_2_logo_width": 90,
+        "others_2_mobile_logo_width": 60,
+        "others_3_label": "Competitor 3",
+        "others_3_label_size": 18,
+        "others_3_logo_width": 90,
+        "others_3_mobile_logo_width": 60,
+        "checkmark_style": "regular",
+        "checkmark_color": "#ffffff",
+        "checkmark_bg_color": "#ffd705",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#DBDBDB",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 10,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_colors_highlighted_background": "#2E2A39",
+        "custom_colors_highlighted_text": "#FFFFFF",
+        "custom_colors_others_background": "#FFFFFF",
+        "custom_colors_others_text": "#2E2A39"
+      }
+    },
     "contact_form_WHP8G7": {
       "type": "contact-form",
       "blocks": {
@@ -975,6 +1101,7 @@
     "icon_bar_G3N84b",
     "image_with_text_6Gpp7H",
     "image_with_text_6VyrVx",
+    "comparison_table_CXrDcB",
     "contact_form_WHP8G7"
   ]
 }
