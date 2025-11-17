@@ -586,14 +586,14 @@
         "collapsible_tab_xnbVzP": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Größentabelle",
             "heading_size": "medium",
             "icon": "crop",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p>Unsere Schuhe fallen normal aus, wählen Sie daher bei der Bestellung einfach Ihre übliche Größe. </p><p>Wenn Sie zwischen zwei Größen liegen, empfehlen wir Ihnen, die größere Größe für zusätzlichen Komfort zu wählen. </p><p>Weitere Informationen finden Sie in unserer Größentabelle:</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -602,14 +602,14 @@
         "collapsible_tab_L9hYym": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Rutschfest",
             "heading_size": "medium",
             "icon": "falling",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p><strong>SOLYDIA-Schuhe sind SRC-zertifiziert, der strengste Rutschhemmungsstandard in Europa.</strong><br/><br/>Das bedeutet, dass sie streng getestet und für die folgenden Anwendungen zugelassen wurden:</p><ol><li><strong>Nasse Fliesen (SR-Bewertung):</strong> Bietet sicheren Halt auf nassen Oberflächen.<br/></li><li><strong>Stahlböden mit Glycerin (SC-Bewertung):</strong> Bietet sicheren Halt auf öligen oder mit Schmierstoffen behandelten Stahlflächen.<br/></li></ol><p>Die <strong>SRC-Zertifizierung</strong> kombiniert beide Tests und garantiert maximalen Grip auf allen Oberflächen, ob nass, fettig oder ölig.</p><p>Wenn Ihr Job leistungsstarke, rutschfeste Sicherheits-Schutzschuhe erfordert, dann entspricht der <strong>S3-Standard</strong> genau Ihren Bedürfnissen.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -618,7 +618,7 @@
         "collapsible_tab_ANYk4V": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Wasserdicht",
             "heading_size": "medium",
             "icon": "invert_colors_off",
             "filled_icon": false,
