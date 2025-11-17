@@ -104,6 +104,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/ECLAT_1.jpg",
         "image_1_visibility": "mobile-hidden",
         "image_2": "shopify://shop_images/Titre_46.jpg",
         "image_2_visibility": "desktop-hidden",
