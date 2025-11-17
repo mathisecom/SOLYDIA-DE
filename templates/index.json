@@ -1246,6 +1246,16 @@
             "row_content": "<p>Die Einlegesohle aus hochdichtem Memory-Schaum und die leichte Konstruktion sind speziell für lange Arbeitstage entwickelt. </p><p>Unsere Sneaker wurden bei 12‑stündigen Schichten getestet. Sollten Sie Beschwerden haben, bieten wir eine vollständige 30‑Tage-Geld-zurück-Garantie.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_e9DpK7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hält das Sneaker-Design auch auf Baustellen stand?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Obwohl sie wie Sneaker aussehen, bestehen unsere Schuhe aus hochfesten Industriewerkstoffen: verstärktes Mesh, versiegelte Nähte und eine professionelle rutschfeste Sohle. </p><p>Sie sind resistent gegen Schlamm, Staub und Spritzer und dennoch leicht zu reinigen.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1255,7 +1265,8 @@
         "collapsible_row_YHNgqX",
         "collapsible_row_BzpehB",
         "collapsible_row_kP4zXz",
-        "collapsible_row_JXixDx"
+        "collapsible_row_JXixDx",
+        "collapsible_row_e9DpK7"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
