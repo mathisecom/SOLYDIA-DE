@@ -1200,10 +1200,10 @@
         "collapsible_row_XyEa7X": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Für welche Umgebungen sind sie geeignet?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Die SOLYDIA sind S3-zertifiziert und somit für alle anspruchsvollen Arbeitsumgebungen geeignet:<br/><br/>✓ Harte Böden (Beton, Fliesen, Asphalt)<br/><br/>✓ Lange Stehzeiten (6–12+ Stunden)<br/><br/>✓ Intensives Gehen (10.000+ Schritte/Tag)<br/><br/>✓ Umgang mit schweren Lasten<br/><br/>✓ Nasse oder fettige Oberflächen (SRC-zertifiziert)<br/><br/>✓ Gefahr durch herabfallende Gegenstände<br/><br/>✓ Durchtrittsgefahr</p><p>Egal, ob Sie drinnen oder draußen arbeiten – sie erfüllen alle Anforderungen der S3-Zertifizierung.</p>",
             "page": ""
           }
         },
