@@ -735,7 +735,7 @@
         "desktop_arrows_position": "hidden",
         "mobile_media_corner_radius": 0,
         "mobile_spacing_pixels": 0,
-        "mobile_arrows_position": "sides",
+        "mobile_arrows_position": "hidden",
         "mobile_pagination": "hidden",
         "mobile_thumbnails_position": "bottom",
         "mobile_thumbnails_count": 5,
