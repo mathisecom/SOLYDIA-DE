@@ -650,14 +650,14 @@
         "collapsible_tab_jEAakU": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Versand & Sendungsverfolgung",
             "heading_size": "medium",
             "icon": "local_shipping",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p><strong>Versand innerhalb von 24–48 Stunden – Sendungsverfolgung verfügbar, sobald die Bestellung versandt wurde.</strong></p><p><strong>Lieferzeiten:</strong></p><ul><li>Standardversand: 3–5 Werktage<br/></li><li>Expressversand: 2–3 Werktage<br/></li><li>Internationaler Versand: 8–10 Werktage</li></ul>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
