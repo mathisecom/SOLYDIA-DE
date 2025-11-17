@@ -474,6 +474,12 @@
             "margin_bottom": 15
           }
         },
+        "bf_size_charts_homepage_block_zRNFDK": {
+          "type": "shopify://apps/bf-size-charts/blocks/homepage-block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "custom_liquid_Hq8mWQ": {
           "type": "custom_liquid",
           "settings": {
@@ -684,6 +690,7 @@
         "trustpilot_stars_ALYQED",
         "title_J83CNA",
         "text_nktENf",
+        "bf_size_charts_homepage_block_zRNFDK",
         "custom_liquid_Hq8mWQ",
         "custom_liquid_eVGiyU",
         "buy_buttons_9dAaXi",
