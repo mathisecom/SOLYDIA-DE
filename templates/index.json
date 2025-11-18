@@ -443,35 +443,10 @@
             "margin_bottom": 15
           }
         },
-        "text_nktENf": {
-          "type": "text",
+        "custom_liquid_KBxjBH": {
+          "type": "custom_liquid",
           "settings": {
-            "mobile_text_size": 13,
-            "desktop_text_size": 16,
-            "alignment": "left",
-            "text_color": "#121212",
-            "text_1": "Orthopädische & Gepolsterte Einlegesohle",
-            "text_2": "45 % leichter & ultra-komfortabel",
-            "text_3": "Sag Auf Wiedersehen zu Fußschmerzen",
-            "icon_scale": 120,
-            "icon_color": "#121212",
-            "icon_1": "check_circle",
-            "filled_icon_1": false,
-            "icon_2": "check_circle",
-            "filled_icon_2": false,
-            "icon_3": "check_circle",
-            "filled_icon_3": false,
-            "width": "100%",
-            "direction": "vertical",
-            "column_gap": 3,
-            "enable_bg": false,
-            "bg_color": "#f3f3f3",
-            "corner_radius": 40,
-            "padding": 3,
-            "border_size": 0,
-            "border_color": "#b7b7b7",
-            "margin_top": 15,
-            "margin_bottom": 15
+            "custom_liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap; font-size:13px;\">\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Zertifiziert nach ASTM F2413</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Antistatischer Schutz (ESD)</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Rutschfest (SRC) & Wasserfest (WR)</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Stahlkappe & Kevlar-Sohle</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">45 % leichter als herkömmliche Sicherheitsschuhe</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Ultrabequem für lange Arbeitstage</div>\n      </div>\n\n    </div>\n  </div>\n</div>"
           }
         },
         "bf_size_charts_homepage_block_zRNFDK": {
@@ -689,7 +664,7 @@
       "block_order": [
         "trustpilot_stars_ALYQED",
         "title_J83CNA",
-        "text_nktENf",
+        "custom_liquid_KBxjBH",
         "bf_size_charts_homepage_block_zRNFDK",
         "custom_liquid_eVGiyU",
         "custom_liquid_Hq8mWQ",
