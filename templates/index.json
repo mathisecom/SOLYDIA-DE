@@ -480,16 +480,16 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "custom_liquid_Hq8mWQ": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div data-rapi-id=\"rapi_643d1b321acb58\"></div>"
-          }
-        },
         "custom_liquid_eVGiyU": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px;\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #f4af29;\n      box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">Nur noch <span id=\"stock-count\">9</span> auf Lager.</div>\n\n  <script>\n    // Funktion, um die Lagerzahl schrittweise zu verringern\n    function animerStock() {\n      let stockAktuell = 9; // Startwert\n      const stockFinal = 5; // Endwert\n      const elementStock = document.getElementById(\"stock-count\");\n\n      const interval = setInterval(() => {\n        stockAktuell--;\n        elementStock.textContent = stockAktuell;\n\n        if (stockAktuell <= stockFinal) {\n          clearInterval(interval);\n        }\n      }, 12000); // Alle 12 Sekunden ändern\n    }\n\n    // Startet die Animation nur, wenn das Element sichtbar ist\n    const observateur = new IntersectionObserver((entries, observateur) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animerStock();\n          observateur.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observateur.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
+          }
+        },
+        "custom_liquid_Hq8mWQ": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div data-rapi-id=\"rapi_643d1b321acb58\"></div>"
           }
         },
         "buy_buttons_9dAaXi": {
@@ -691,8 +691,8 @@
         "title_J83CNA",
         "text_nktENf",
         "bf_size_charts_homepage_block_zRNFDK",
-        "custom_liquid_Hq8mWQ",
         "custom_liquid_eVGiyU",
+        "custom_liquid_Hq8mWQ",
         "buy_buttons_9dAaXi",
         "custom_liquid_L8pmCr",
         "custom_liquid_tzKaML",
