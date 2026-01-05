@@ -628,6 +628,22 @@
             "margin_bottom": 0
           }
         },
+        "collapsible_tab_thyb3A": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Europäische Norm S3",
+            "heading_size": "medium",
+            "icon": "shield",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Die <strong>SOLYDIA</strong> sind nach <strong>EN ISO 20345 S3</strong> zertifiziert und garantieren:</p><p>✓ <strong>Schutzkappe 200 Joule</strong> (widersteht dem Aufprall schwerer Gegenstände)<br/><br/>✓ <strong>Durchtrittsichere Sohle</strong> (Schutz vor Nägeln und scharfen Gegenständen)<br/><br/>✓ <strong>Rutschhemmende SRC-Sohle</strong> (optimaler Halt auf nassen und öligen Oberflächen)<br/><br/>✓ <strong>Energieabsorption im Fersenbereich</strong> (reduziert Stöße bei wiederholten Belastungen)<br/><br/>✓ <strong>Beständigkeit gegen Kohlenwasserstoffe</strong> (Öle, Kraftstoffe, Chemikalien)<br/><br/>✓ <strong>Wasserabweisendes Obermaterial (WR)</strong> (Schutz vor Wasserspritzern)</p><p>Diese Zertifizierung deckt <strong>95 % der handwerklichen und technischen Berufe</strong> ab.<br/><br/>Wenn Ihr Beruf Sicherheitsschuhe erfordert, <strong>erfüllt die S3-Norm alle Ihre Anforderungen</strong>.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "collapsible_tab_jEAakU": {
           "type": "collapsible_tab",
           "settings": {
@@ -677,6 +693,7 @@
         "collapsible_tab_L9hYym",
         "collapsible_tab_ANYk4V",
         "collapsible_tab_6iWNEW",
+        "collapsible_tab_thyb3A",
         "collapsible_tab_jEAakU",
         "collapsible_tab_NGWEMr"
       ],
