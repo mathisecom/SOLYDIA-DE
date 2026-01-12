@@ -1030,7 +1030,7 @@
         "full_desktop_width": false,
         "content_layout": "no-overlap",
         "desktop_media_width": 50,
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_full_media_width": false,
@@ -1049,6 +1049,299 @@
         "custom_colors_outline_button": "#dd1d1d",
         "custom_section_colors_background": "#FFFFFF",
         "custom_section_gradient_background": ""
+      }
+    },
+    "image_with_text_jncfGr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dX4Pdx": {
+          "type": "heading",
+          "settings": {
+            "title": "UNSERE <strong>PROFESSIONELLE GARANTIE</strong>",
+            "title_highlight_color": "#ffd705",
+            "heading_size": "h2"
+          }
+        },
+        "text_9aDMEr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn unsere Schuhe dein Arbeitserlebnis nicht vollständig verbessern, sende sie innerhalb von 30 Tagen zurück. Volle Rückerstattung, ohne Fragen. </p><p><strong>Denn dein Komfort bei der Arbeit sollte niemals verhandelbar sein.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_ybQ9GX": {
+          "type": "button",
+          "settings": {
+            "button_label": "JETZT KAUFEN",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dX4Pdx",
+        "text_9aDMEr",
+        "button_ybQ9GX"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/Titre_19_d55f873b-7a02-4164-bca7-0b6e125fc384.jpg",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "custom",
+        "section_color_scheme": "custom",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#121212",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#ffffff",
+        "custom_colors_solid_button_text": "#121212",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#121212",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "comparison_table_QyyqAG": {
+      "type": "comparison-table",
+      "blocks": {
+        "row_LYf9xw": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_iBmLTK": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_Jbbdn4": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        }
+      },
+      "block_order": [
+        "row_LYf9xw",
+        "row_iBmLTK",
+        "row_Jbbdn4"
+      ],
+      "name": "Comparison table",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "DIE VORTEILE, DIE DEN <strong>UNTERSCHIED MACHEN</strong>",
+        "title_highlight_color": "#ffd705",
+        "heading_size": "h2",
+        "text": "",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "desktop_alignment": "center",
+        "mobile_alignment": "center",
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "minimal",
+        "corner_radius": 20,
+        "number_of_competitors": 1,
+        "us_label": "SOLYDIA",
+        "us_label_size": 18,
+        "logo_width": 90,
+        "mobile_logo_width": 60,
+        "others_label": "ANDERE",
+        "others_label_size": 18,
+        "others_logo_width": 90,
+        "others_mobile_logo_width": 60,
+        "others_2_label": "Competitor 2",
+        "others_2_label_size": 18,
+        "others_2_logo_width": 90,
+        "others_2_mobile_logo_width": 60,
+        "others_3_label": "Competitor 3",
+        "others_3_label_size": 18,
+        "others_3_logo_width": 90,
+        "others_3_mobile_logo_width": 60,
+        "checkmark_style": "regular",
+        "checkmark_color": "#ffffff",
+        "checkmark_bg_color": "#ffd705",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#DBDBDB",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 10,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_colors_highlighted_background": "#2E2A39",
+        "custom_colors_highlighted_text": "#FFFFFF",
+        "custom_colors_others_background": "#FFFFFF",
+        "custom_colors_others_text": "#2E2A39"
+      }
+    },
+    "collapsible_content_gafmhp": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_WHRHgr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_m6ny9y": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_9ywhYd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_Vy8JiA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_aqXXVA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_xVNLDb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_hVReXJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_mAt7Gf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_WHRHgr",
+        "collapsible_row_m6ny9y",
+        "collapsible_row_9ywhYd",
+        "collapsible_row_Vy8JiA",
+        "collapsible_row_aqXXVA",
+        "collapsible_row_xVNLDb",
+        "collapsible_row_hVReXJ",
+        "collapsible_row_mAt7Gf"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "HAST DU EINE FRAGE?",
+        "title": "HÄUFIG GESTELLTE FRAGEN",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
       }
     },
     "1763421347438721d8": {
@@ -1087,6 +1380,9 @@
     "image_with_text_3LrVLn",
     "icon_bar_gXAzG7",
     "image_with_text_yAEX6i",
+    "image_with_text_jncfGr",
+    "comparison_table_QyyqAG",
+    "collapsible_content_gafmhp",
     "1763421347438721d8"
   ]
 }
