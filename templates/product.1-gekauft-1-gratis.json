@@ -9,6 +9,29 @@
  */
 {
   "sections": {
+    "image_banner_jyMF63": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_4.jpg",
+        "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/MEILLEURE_OFFRE_DE_L_ANNEe_7.jpg",
+        "image_2_visibility": "desktop-hidden",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -40,6 +63,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "layout": "price_first",
             "price_color": "accent-1",
@@ -57,6 +81,7 @@
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_types": "pills, dropdown, dropdown",
             "custom_labels": "[name] - [selected]",
@@ -92,8 +117,15 @@
             "margin_bottom": 15
           }
         },
+        "rapi_rapi_bundle_rUf7cD": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
             "full_width_classic": false,
             "atc_append": "none",
@@ -329,6 +361,7 @@
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
+        "rapi_rapi_bundle_rUf7cD",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
@@ -879,6 +912,7 @@
     }
   },
   "order": [
+    "image_banner_jyMF63",
     "main",
     "related-products",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
