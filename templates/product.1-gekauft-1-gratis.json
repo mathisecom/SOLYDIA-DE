@@ -906,7 +906,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "display_id": true,
+        "display_id": false,
         "enable_sticky_info": true,
         "display_variant_image_first": false,
         "disable_prepend": true,
