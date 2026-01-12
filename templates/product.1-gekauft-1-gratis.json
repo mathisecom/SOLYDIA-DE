@@ -233,6 +233,7 @@
         "column_dHn4pi": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/1750679902__0__Hs4_OgOy__IMG-20250623-WA0015__original_2.avif",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -243,6 +244,7 @@
         "column_XPaUpw": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/zNRM-t9IC.jpg",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -253,6 +255,40 @@
         "column_gHTp7F": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_d2isqvd2isqvd2is_1_68304eeb-a3be-4342-92ee-e3cbfb6cc02a.webp",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GUTLcF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Titre_17_fc27e648-cdc4-4a93-94b8-3f10cf79ce22.jpg",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pBhJGa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fDklscE5Sj6HezY_1.jpg",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_c9kCzC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CTSpQRWtYbA5Xyz.jpg",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -264,7 +300,10 @@
       "block_order": [
         "column_dHn4pi",
         "column_XPaUpw",
-        "column_gHTp7F"
+        "column_gHTp7F",
+        "column_GUTLcF",
+        "column_pBhJGa",
+        "column_c9kCzC"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
