@@ -906,7 +906,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "display_id": false,
+        "display_id": true,
         "enable_sticky_info": true,
         "display_variant_image_first": false,
         "disable_prepend": true,
@@ -999,7 +999,7 @@
           "type": "button",
           "settings": {
             "button_label": "JETZT KAUFEN",
-            "button_link": "",
+            "button_link": "#shopify-section-template--18822167560266__main",
             "button_style_secondary": false
           }
         }
@@ -1160,7 +1160,7 @@
           "type": "button",
           "settings": {
             "button_label": "JETZT KAUFEN",
-            "button_link": "",
+            "button_link": "#shopify-section-template--18822167560266__main",
             "button_style_secondary": false
           }
         }
@@ -1226,7 +1226,7 @@
           "type": "button",
           "settings": {
             "button_label": "JETZT KAUFEN",
-            "button_link": "",
+            "button_link": "#shopify-section-template--18822167560266__main",
             "button_style_secondary": false
           }
         }
