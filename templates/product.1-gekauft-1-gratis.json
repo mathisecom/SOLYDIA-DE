@@ -415,7 +415,13 @@
             "title_alignment": "left",
             "uppercase_title": false,
             "margin_top": 0,
-            "margin_bottom": 0
+            "margin_bottom": 12
+          }
+        },
+        "custom_liquid_DkMqtj": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap; font-size:13px;\">\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Zertifiziert nach EN ISO 20345</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Antistatischer Schutz (ESD)</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Rutschfest (SRC) & Wasserfest (WR)</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Stahlkappe & Kevlar-Sohle</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">45 % leichter als herkömmliche Sicherheitsschuhe</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Ultrabequem für lange Arbeitstage</div>\n      </div>\n\n    </div>\n  </div>\n</div>"
           }
         },
         "a6eb81db-40e4-43e0-972f-32db010a4a56": {
@@ -611,7 +617,6 @@
         },
         "e0a0b690-50df-4ca4-acfd-ce2980696cce": {
           "type": "shipping_checkpoints",
-          "disabled": true,
           "settings": {
             "icon_1": "add_shopping_cart",
             "filled_icon_1": false,
@@ -736,6 +741,7 @@
       "block_order": [
         "trustpilot_stars_NPqahh",
         "title",
+        "custom_liquid_DkMqtj",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
@@ -822,6 +828,72 @@
         "padding_bottom": 24
       }
     },
+    "image_with_text_3LrVLn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UwMnYG": {
+          "type": "heading",
+          "settings": {
+            "title": "DAS AUSSEHEN EINES SNEAKERS – DER SCHUTZ <strong>EINES SICHERHEITSSCHUHS</strong>",
+            "title_highlight_color": "#ffd705",
+            "heading_size": "h2"
+          }
+        },
+        "text_HDpdLb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mit dem <strong>SOLYDIA</strong> musst du nicht länger zwischen Komfort, Stil und Sicherheit wählen. Das moderne, von Sneakers inspirierte Design macht ihn zum perfekten Begleiter für lange Tage, sowohl bei der Arbeit als auch danach. </p><p>Anstelle schwerer, starrer Sicherheitsschuhe erhältst du ein stylisches Paar, das du auch außerhalb der Baustelle bequem tragen kannst. </p><p><strong>Das Ergebnis:</strong> Du fühlst dich den ganzen Tag leicht, komfortabel und selbstbewusst in deinen Schuhen.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_UfQLXK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UwMnYG",
+        "text_HDpdLb",
+        "button_UfQLXK"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/1_480x480_1e0e1a1e-ca43-4a81-8687-ca523ef40922.webp",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
     "1763421347438721d8": {
       "type": "apps",
       "blocks": {
@@ -855,6 +927,7 @@
     "horizontal_ticker_aTTbPx",
     "main",
     "related-products",
+    "image_with_text_3LrVLn",
     "1763421347438721d8"
   ]
 }
