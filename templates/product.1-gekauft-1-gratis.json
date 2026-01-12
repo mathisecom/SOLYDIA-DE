@@ -32,6 +32,72 @@
         "show_text_below": true
       }
     },
+    "logo_list_6mGdgx": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_HC7qLH": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/forbes2_1.svg",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_8hjLKq": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/gq_logo_1.webp",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_GbHUr7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/celuieaaz_1.avif",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_DRBTt9": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/natgeo_logo_1.webp",
+            "link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "logo_HC7qLH",
+        "logo_8hjLKq",
+        "logo_GbHUr7",
+        "logo_DRBTt9"
+      ],
+      "name": "Featured on",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "BEREITS GESEHEN AUF",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "gray_logos": false,
+        "color_scheme": "background-1",
+        "layout": "horizontal",
+        "desktop_logo_height": 50,
+        "columns_mobile": 2,
+        "mobile_logo_height": 50,
+        "mobile_slider": true,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "show_dots": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -474,6 +540,7 @@
   },
   "order": [
     "image_banner_jyMF63",
+    "logo_list_6mGdgx",
     "main",
     "related-products",
     "1763421347438721d8"
