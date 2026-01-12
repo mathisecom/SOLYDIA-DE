@@ -902,8 +902,9 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/1_1_a18568bb-9e86-4f1a-9b6b-5a7f3fb14d09.webp",
             "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
         "column_pBeeVX": {
@@ -911,8 +912,9 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/3.webp",
             "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
         "column_fpbQyL": {
@@ -920,8 +922,9 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/4.webp",
             "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
         "column_PyCGfz": {
@@ -929,8 +932,9 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/2.webp",
             "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         }
       },
@@ -950,7 +954,7 @@
         "text": "",
         "color_scheme": "custom",
         "icon_layout": "vertical",
-        "icon_size": "medium",
+        "icon_size": "large",
         "icon_color": "accent-1",
         "cards_color_scheme": "custom",
         "type": "slide",
