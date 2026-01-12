@@ -615,6 +615,12 @@
             "margin_bottom": 24
           }
         },
+        "custom_liquid_GxdRcd": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "e0a0b690-50df-4ca4-acfd-ce2980696cce": {
           "type": "shipping_checkpoints",
           "settings": {
@@ -749,6 +755,7 @@
         "rapi_rapi_bundle_rUf7cD",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
+        "custom_liquid_GxdRcd",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
