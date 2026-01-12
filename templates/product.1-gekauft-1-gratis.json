@@ -1123,7 +1123,7 @@
         "row_LYf9xw": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>24/7 KOMFORT</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1133,7 +1133,7 @@
         "row_iBmLTK": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>OHNE SCHNÜRSENKEL</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1143,7 +1143,27 @@
         "row_Jbbdn4": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>LEICHT & ATMUNGSAKTIV</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_qcyDHA": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>STAHLSCHUTZKAPPE</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_TiRQmy": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>SCHMERZFREI & KOMFORTABEL</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1154,7 +1174,9 @@
       "block_order": [
         "row_LYf9xw",
         "row_iBmLTK",
-        "row_Jbbdn4"
+        "row_Jbbdn4",
+        "row_qcyDHA",
+        "row_TiRQmy"
       ],
       "name": "Comparison table",
       "settings": {
@@ -1322,7 +1344,7 @@
         "caption": "HAST DU EINE FRAGE?",
         "title": "HÄUFIG GESTELLTE FRAGEN",
         "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "background-1",
