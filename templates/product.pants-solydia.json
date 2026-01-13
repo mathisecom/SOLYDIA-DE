@@ -1532,6 +1532,7 @@
       "block_order": [
         "loox_reviews_loox_dynamic_section_BtHCnr"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "include_margins": true
