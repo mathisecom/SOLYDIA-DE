@@ -15,6 +15,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/14.jpg",
         "image_1_visibility": "mobile-hidden",
         "image_2": "shopify://shop_images/5.jpg",
         "image_2_visibility": "desktop-hidden",
@@ -533,7 +534,7 @@
           }
         },
         "rapi_rapi_bundle_rUf7cD": {
-          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
             "product": "{{product}}"
           }
