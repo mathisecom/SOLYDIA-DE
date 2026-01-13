@@ -770,6 +770,7 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Rutschfest",
             "heading_size": "medium",
@@ -786,6 +787,7 @@
         },
         "collapsible_tab_Nx7iNL": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Größentabelle",
             "heading_size": "medium",
@@ -802,6 +804,7 @@
         },
         "collapsible_tab_LyeMBV": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Wasserdicht",
             "heading_size": "medium",
@@ -818,6 +821,7 @@
         },
         "collapsible_tab_ki8Pnm": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Für welche Umgebungen?",
             "heading_size": "medium",
@@ -834,6 +838,7 @@
         },
         "collapsible_tab_EPJNyJ": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Versand & Sendungsverfolgung",
             "heading_size": "medium",
@@ -867,7 +872,7 @@
         "collapsible_tab_qqwYrf": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Europäische Norm S3",
+            "heading": "Garantie & Rückgabe",
             "heading_size": "medium",
             "icon": "reply",
             "filled_icon": false,
