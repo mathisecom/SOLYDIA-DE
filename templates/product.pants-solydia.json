@@ -769,16 +769,15 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Rutschfest",
+            "heading": "Reißfest",
             "heading_size": "medium",
             "icon": "crop",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>Unsere Schuhe fallen normal aus, wählen Sie daher bei der Bestellung einfach Ihre übliche Größe. </p><p>Wenn Sie zwischen zwei Größen liegen, empfehlen wir Ihnen, die größere Größe für zusätzlichen Komfort zu wählen. </p><p>Weitere Informationen finden Sie in unserer Größentabelle:</p>",
+            "content": "<p><strong>Unsere SOLYDIA FLEX-Hosen sind dank Ripstop-Technologie garantiert reißfest. Der Begriff stammt aus dem Englischen „rip“ (reißen) und „stop“ (stoppen) – eine Textiltechnologie, die ursprünglich für militärische Ausrüstung entwickelt wurde.</strong></p><p><strong>Wie funktioniert das?</strong><br/><br/>Das Nylongarn wird zu einem verstärkten Raster gewebt. Wenn der Stoff an einem Nagel oder einer scharfen Kante hängen bleibt, stoppt der Riss am Raster, anstatt sich über die gesamte Hose auszubreiten.</p><p><strong>Der konkrete Unterschied?</strong><br/><br/>Bei normalen Hosen kann ein kleiner Haken schnell zu einem 10–15 cm langen Riss werden. Mit Ripstop bleibt derselbe Haken nur ein Loch von wenigen Millimetern.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -786,16 +785,15 @@
         },
         "collapsible_tab_Nx7iNL": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Größentabelle",
+            "heading": "Wasserdicht",
             "heading_size": "medium",
             "icon": "falling",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p><strong>SOLYDIA-Schuhe sind SRC-zertifiziert, der strengste Rutschhemmungsstandard in Europa.</strong><br/><br/>Das bedeutet, dass sie streng getestet und für die folgenden Anwendungen zugelassen wurden:</p><ol><li><strong>Nasse Fliesen (SR-Bewertung):</strong> Bietet sicheren Halt auf nassen Oberflächen.<br/></li><li><strong>Stahlböden mit Glycerin (SC-Bewertung):</strong> Bietet sicheren Halt auf öligen oder mit Schmierstoffen behandelten Stahlflächen.<br/></li></ol><p>Die <strong>SRC-Zertifizierung</strong> kombiniert beide Tests und garantiert maximalen Grip auf allen Oberflächen, ob nass, fettig oder ölig.</p><p>Wenn Ihr Job leistungsstarke, rutschfeste Sicherheits-Schutzschuhe erfordert, dann entspricht der <strong>S3-Standard</strong> genau Ihren Bedürfnissen.</p>",
+            "content": "<p><strong>SOLYDIA-Schuhe sind SRC-zertifiziert, der strengsten Antirutsch-Norm in Europa.</strong><br/><br/>Das bedeutet, dass sie gründlich getestet und genehmigt wurden auf:</p><ul><li>Nassen Fliesenböden (SR-Bewertung)<br/></li><li>Stahlböden mit Glycerin (SC-Bewertung)</li></ul><p><strong>SRC</strong> kombiniert beide Tests – und garantiert maximalen Halt auf allen Oberflächen, egal ob nass, fettig oder ölig.</p><p>Wenn Ihr Beruf leistungsstarke, rutschfeste Sicherheitsschuhe erfordert, ist der <strong>S3-Standard</strong> genau das Richtige für Sie.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -803,16 +801,15 @@
         },
         "collapsible_tab_LyeMBV": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Wasserdicht",
+            "heading": "Wärmeisolierung",
             "heading_size": "medium",
             "icon": "invert_colors_off",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p><strong>Die SOLYDIA-Schuhe sind wasserabweisend und WR-zertifiziert (Water Resistant).</strong><br/>Sie bieten einen effektiven Schutz gegen:</p><ul><li>Regen<br/></li><li>Wasserspritzer<br/></li><li>Verschüttungen<br/></li><li>Nasse Oberflächen</li></ul><p>Perfekt für jeden Beruf, der mit Feuchtigkeit in Kontakt kommt.</p>",
+            "content": "<p><strong>Unsere SOLYDIA FLEX-Hosen halten dank des Canadian Fleece Thermofutters garantiert warm.</strong><br/><br/>Dies ist ein technisches Fleece, das für extreme Wetterbedingungen entwickelt wurde und von Spezialeinheiten genutzt wird, um bei Temperaturen bis zu -20 °C warm und beweglich zu bleiben.</p><p><strong>Wie funktioniert das?</strong><br/><br/>Die Fleecefasern speichern die von Ihrem Körper erzeugte Wärme und transportieren gleichzeitig Feuchtigkeit ab. Sie bleiben warm, ohne zu schwitzen – im Gegensatz zu minderwertigen Futtern, die zum Schwitzen und anschließenden Auskühlen führen.</p><p><strong>Der echte Unterschied?</strong><br/><br/>Bei Standardfutterhosen fühlen Sie sich zunächst warm, dann schwitzen Sie und frieren am Ende. Mit Canadian Fleece bleibt die Wärme den ganzen Tag über konstant, selbst bei -10 °C.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
