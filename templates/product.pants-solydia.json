@@ -1016,7 +1016,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/1_480x480_1e0e1a1e-ca43-4a81-8687-ca523ef40922.webp",
+        "image": "shopify://shop_images/45df7154-adaf-46af-8a43-760173e530e6.webp",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -1096,6 +1096,7 @@
         "column_fpbQyL",
         "column_PyCGfz"
       ],
+      "disabled": true,
       "name": "Icon Bar",
       "settings": {
         "display_id": false,
@@ -1177,7 +1178,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Titre_19_d55f873b-7a02-4164-bca7-0b6e125fc384.jpg",
+        "image": "shopify://shop_images/16_1080x_cdfb102e-e771-4f6e-83b1-92c672c8e654.webp",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -1243,7 +1244,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Titre_20_aa6c06e7-d40c-4dff-ab32-56acc27fbe91.jpg",
+        "image": "shopify://shop_images/Ultraflex_Utility_Trousers_and_Fleece_Lined_Trousers_Kopie_3_1080x_aedb4f87-9e51-47ba-982d-f4aeae6d8e88.webp",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
