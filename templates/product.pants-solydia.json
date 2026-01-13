@@ -11,6 +11,7 @@
   "sections": {
     "image_banner_jyMF63": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
@@ -100,6 +101,7 @@
     },
     "image_banner_dYfgcj": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
@@ -184,6 +186,7 @@
         "video_slide_VgQwwB",
         "video_slide_VqLwpi"
       ],
+      "disabled": true,
       "name": "Image/Video Slider",
       "settings": {
         "display_id": false,
@@ -233,7 +236,7 @@
         "column_dHn4pi": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/1750679902__0__Hs4_OgOy__IMG-20250623-WA0015__original_2.avif",
+            "image": "shopify://shop_images/05c3c8be-fa9c-4e11-9ca9-de64ef4b2a72.webp",
             "muted_autoplay": true,
             "title": "Mark T.",
             "text": "<p>Anfangs war ich wegen des Preises skeptisch, aber seitdem ich meine alten schweren Sicherheitsschuhe ersetzt habe, sind meine Rückenschmerzen verschwunden. Super bequem, absolut empfehlenswert.</p>",
@@ -244,7 +247,7 @@
         "column_XPaUpw": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/zNRM-t9IC.jpg",
+            "image": "shopify://shop_images/avis3.avif",
             "muted_autoplay": true,
             "title": "Matt D.",
             "text": "<p>Ich habe ein Jahr lang Stanley getragen – viel zu schwer. Ein Kollege hat mir diese empfohlen, ich habe sie ausprobiert und sofort bestellt. Viel leichter und keine Fußschmerzen mehr nach langen Arbeitstagen.</p>",
@@ -255,7 +258,7 @@
         "column_gHTp7F": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_d2isqvd2isqvd2is_1_68304eeb-a3be-4342-92ee-e3cbfb6cc02a.webp",
+            "image": "shopify://shop_images/avis.avif",
             "muted_autoplay": true,
             "title": "Michael R.",
             "text": "<p>Ich habe sie für mein Team nach einer ergonomischen Schulung gekauft. Weniger Ermüdung, weniger Beschwerden. Ein großartiges Preis-Leistungs-Verhältnis.</p>",
@@ -266,7 +269,7 @@
         "column_GUTLcF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Titre_17_fc27e648-cdc4-4a93-94b8-3f10cf79ce22.jpg",
+            "image": "shopify://shop_images/12_fc6bc2ee-5e22-4edb-8456-713181d1c989_360x_-_copie.webp",
             "muted_autoplay": true,
             "title": "James R.",
             "text": "<p>Überraschend leicht und sehr stützend. Ich stehe den ganzen Tag auf den Beinen und diese Schuhe haben wirklich einen Unterschied gemacht. Sehr empfehlenswert.</p>",
@@ -277,7 +280,7 @@
         "column_pBhJGa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/fDklscE5Sj6HezY_1.jpg",
+            "image": "shopify://shop_images/avis5_-_copie.webp",
             "muted_autoplay": true,
             "title": "Chris L.",
             "text": "<p>Gute Haltbarkeit und viel bequemer als mein altes Diadora-Paar. Für diesen Preis ein echter Gewinn.</p>",
@@ -288,7 +291,7 @@
         "column_c9kCzC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/CTSpQRWtYbA5Xyz.jpg",
+            "image": "shopify://shop_images/avis6.avif",
             "muted_autoplay": true,
             "title": "Brian T.",
             "text": "<p>Hätte nicht erwartet, dass Sicherheitsschuhe so bequem sein können. Keine Knie- oder Fußschmerzen mehr. Würde sie wieder kaufen.</p>",
