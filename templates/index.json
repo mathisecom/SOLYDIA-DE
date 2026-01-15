@@ -421,11 +421,11 @@
         "trustpilot_stars_ALYQED": {
           "type": "trustpilot_stars",
           "settings": {
-            "rating": 5,
+            "rating": 4.7,
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
-            "label": "<strong>4,7/5</strong> VON <strong>15.200+</strong> <strong>PROFIS</strong>",
+            "label": "<strong>4,7/5</strong> VON <strong>15 000+</strong> <strong>PROFIS</strong>",
             "size": 12,
             "alignment": "flex-start",
             "scroll_id": "",
