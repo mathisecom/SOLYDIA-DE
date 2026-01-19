@@ -445,6 +445,16 @@
             "margin_bottom": 12
           }
         },
+        "custom_liquid_dxycBy": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "Die <b>SOLYDIA™ FLEX PANTS</b> vereinen die Strapazierfähigkeit professioneller Arbeitskleidung mit dem Komfort von Kleidung, die Sie den ganzen Tag über in Bewegung hält."
+          }
+        },
+        "bf_size_charts_block_paQHin": {
+          "type": "shopify://apps/bf-size-charts/blocks/block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "settings": {}
+        },
         "custom_liquid_DkMqtj": {
           "type": "custom_liquid",
           "settings": {
@@ -522,10 +532,6 @@
             "margin_top": 15,
             "margin_bottom": 15
           }
-        },
-        "bf_size_charts_block_paQHin": {
-          "type": "shopify://apps/bf-size-charts/blocks/block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
-          "settings": {}
         },
         "custom_liquid_mCc87q": {
           "type": "custom_liquid",
@@ -885,11 +891,12 @@
       "block_order": [
         "trustpilot_stars_NPqahh",
         "title",
+        "custom_liquid_dxycBy",
+        "bf_size_charts_block_paQHin",
         "custom_liquid_DkMqtj",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
-        "bf_size_charts_block_paQHin",
         "custom_liquid_mCc87q",
         "rapi_rapi_bundle_rUf7cD",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
