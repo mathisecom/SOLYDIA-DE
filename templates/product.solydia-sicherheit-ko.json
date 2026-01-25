@@ -385,6 +385,7 @@
       "block_order": [
         "text_NpahEW"
       ],
+      "disabled": true,
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
