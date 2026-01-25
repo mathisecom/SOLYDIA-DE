@@ -11,6 +11,7 @@
   "sections": {
     "image_banner_jyMF63": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
@@ -74,6 +75,7 @@
         "logo_GbHUr7",
         "logo_DRBTt9"
       ],
+      "disabled": true,
       "name": "Featured on",
       "settings": {
         "display_id": false,
@@ -100,6 +102,7 @@
     },
     "image_banner_dYfgcj": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
@@ -184,6 +187,7 @@
         "video_slide_VgQwwB",
         "video_slide_VqLwpi"
       ],
+      "disabled": true,
       "name": "Image/Video Slider",
       "settings": {
         "display_id": false,
@@ -305,6 +309,7 @@
         "column_pBhJGa",
         "column_c9kCzC"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "display_id": false,
@@ -385,6 +390,7 @@
       "block_order": [
         "text_NpahEW"
       ],
+      "disabled": true,
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
@@ -445,6 +451,7 @@
         },
         "custom_liquid_DkMqtj": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-direction: column; font-size:13px;\">\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Zertifiziert nach EN ISO 20345</div>\n      </div>\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Antistatischer Schutz (ESD)</div>\n      </div>\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Rutschfest (SRC) & Wasserfest (WR)</div>\n      </div>\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Stahlkappe & Kevlar-Sohle</div>\n      </div>\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">45 % leichter als herkömmliche Sicherheitsschuhe (nur 460 g)</div>\n      </div>\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Ultrabequem für lange Arbeitstage</div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
@@ -523,6 +530,7 @@
         },
         "bf_size_charts_block_paQHin": {
           "type": "shopify://apps/bf-size-charts/blocks/block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "disabled": true,
           "settings": {}
         },
         "custom_liquid_mCc87q": {
@@ -533,6 +541,7 @@
         },
         "rapi_rapi_bundle_rUf7cD": {
           "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "disabled": true,
           "settings": {
             "product": "{{product}}"
           }
@@ -734,6 +743,7 @@
         },
         "reviews_8UgFbe": {
           "type": "reviews",
+          "disabled": true,
           "settings": {
             "color_scheme": "background-1",
             "show_custom_bg": false,
@@ -1009,6 +1019,7 @@
         "text_HDpdLb",
         "button_UfQLXK"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
@@ -1093,6 +1104,7 @@
         "column_fpbQyL",
         "column_PyCGfz"
       ],
+      "disabled": true,
       "name": "Icon Bar",
       "settings": {
         "display_id": false,
@@ -1170,6 +1182,7 @@
         "text_gqLjm9",
         "button_YHCfam"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
@@ -1236,6 +1249,7 @@
         "text_9aDMEr",
         "button_ybQ9GX"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
@@ -1331,6 +1345,7 @@
         "row_qcyDHA",
         "row_TiRQmy"
       ],
+      "disabled": true,
       "name": "Comparison table",
       "settings": {
         "display_id": false,
