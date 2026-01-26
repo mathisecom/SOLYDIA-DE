@@ -533,7 +533,7 @@
           }
         },
         "rapi_rapi_bundle_rUf7cD": {
-          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
             "product": "{{product}}"
           }
@@ -1000,7 +1000,7 @@
           "type": "button",
           "settings": {
             "button_label": "JETZT KAUFEN",
-            "button_link": "#shopify-section-template--18822167560266__main",
+            "button_link": "#shopify-section-template--18928235413578__main",
             "button_style_secondary": false
           }
         }
@@ -1161,7 +1161,7 @@
           "type": "button",
           "settings": {
             "button_label": "JETZT KAUFEN",
-            "button_link": "#shopify-section-template--18822167560266__main",
+            "button_link": "#shopify-section-template--18928235413578__main",
             "button_style_secondary": false
           }
         }
@@ -1227,7 +1227,7 @@
           "type": "button",
           "settings": {
             "button_label": "JETZT KAUFEN",
-            "button_link": "#shopify-section-template--18822167560266__main",
+            "button_link": "#shopify-section-template--18928235413578__main",
             "button_style_secondary": false
           }
         }
