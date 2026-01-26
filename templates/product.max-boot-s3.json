@@ -481,6 +481,12 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_ahkcWN": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div data-rapi-id=\"rapi_6493f36c5597b809412\"></div>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -742,6 +748,7 @@
         "bf_size_charts_block_paQHin",
         "custom_liquid_mCc87q",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
+        "custom_liquid_ahkcWN",
         "buy_buttons",
         "custom_liquid_GxdRcd",
         "custom_liquid_3eWQeT",
