@@ -1003,6 +1003,7 @@
         },
         "button_UfQLXK": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "JETZT KAUFEN",
             "button_link": "#shopify-section-template--18822167560266__main",
@@ -1164,6 +1165,7 @@
         },
         "button_YHCfam": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "JETZT KAUFEN",
             "button_link": "#shopify-section-template--18822167560266__main",
@@ -1230,6 +1232,7 @@
         },
         "button_ybQ9GX": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "JETZT KAUFEN",
             "button_link": "#shopify-section-template--18822167560266__main",
