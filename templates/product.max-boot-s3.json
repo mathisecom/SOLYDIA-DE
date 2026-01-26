@@ -231,152 +231,6 @@
         "custom_colors_text": "#121212"
       }
     },
-    "multicolumn_hwXViX": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_dHn4pi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/1750679902__0__Hs4_OgOy__IMG-20250623-WA0015__original_2.avif",
-            "muted_autoplay": true,
-            "title": "Mark T.",
-            "text": "<p>Früher hatte ich schon bis zum Mittag richtige Fersenschmerzen, und in den letzten Stunden habe ich nur noch die Schritte bis nach Hause gezählt. In der ersten Woche mit diesen Schuhen habe ich sofort gemerkt, dass ich am Ende der Schicht nicht mehr zum Auto hinke. Immer noch ein langer Tag auf Beton, aber meine Füße fühlen sich nicht mehr zertrümmert an.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_XPaUpw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/zNRM-t9IC.jpg",
-            "muted_autoplay": true,
-            "title": "Matt D.",
-            "text": "<p>Meine alten Stiefel fühlten sich an, als würde ich Ziegel schleppen, besonders wenn man den ganzen Tag ein- und aus dem Van steigt. Diese hier fühlen sich sofort leichter an, sobald man sie anzieht, und es verändert wirklich, wie man sich bewegt. Am Ende des Tages fühlen sich meine Beine weniger schwer an, und ich sehe dem nächsten Einsatz nicht mehr mit Grauen entgegen – das sagt schon alles.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gHTp7F": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_d2isqvd2isqvd2is_1_68304eeb-a3be-4342-92ee-e3cbfb6cc02a.webp",
-            "muted_autoplay": true,
-            "title": "Michael R.",
-            "text": "<p>Ich hatte es satt, bei Regen ständig wegzurutschen. Man merkt gar nicht, wie angespannt man ist, bis man es nicht mehr ist. Diese Schuhe stehen fest. Auf nassen Brettern und matschigem Boden mache ich nicht mehr diesen kleinen ‚Whoa‘-Schritt den ganzen Tag, um nicht hinzufallen.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GUTLcF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Titre_17_fc27e648-cdc4-4a93-94b8-3f10cf79ce22.jpg",
-            "muted_autoplay": true,
-            "title": "James R.",
-            "text": "<p>Ich hatte immer schmerzende Fußgewölbe und Druckstellen unter dem Fußballen, erst ‚meh‘, dann richtig nervig bis zum Nachmittag. Mit diesen Schuhen hat man tatsächlich Unterstützung unter den Füßen, nicht nur ein flaches Brett. Ich kann auf der Leiter stehen, wieder runter, herumstehen – am Ende des Tages brennen die Füße nicht mehr.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_pBhJGa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/fDklscE5Sj6HezY_1.jpg",
-            "muted_autoplay": true,
-            "title": "Chris L.",
-            "text": "<p>Ich hatte immer Scheuerstellen an Zehen und Seiten, dann läuft man den ganzen Tag ‚komisch‘, um es zu vermeiden. Das zermürbt einen: ständige Reizungen, nicht ein großer Schmerz. Diese passen perfekt, und ich habe keine einzige Blase bekommen. Am besten ist: Ich denke nicht mehr über meine Füße nach.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_c9kCzC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/CTSpQRWtYbA5Xyz.jpg",
-            "muted_autoplay": true,
-            "title": "Brian T.",
-            "text": "<p>Früher kam ich nach Hause und meine Füße ‚summten‘ noch, als würden sie vom Boden vibrieren. Schwer zu erklären, wenn man nicht lange Tage auf Beton gemacht hat. Diese Schuhe sind gedämpft auf eine Weise, die wirklich die ganze Schicht anhält. Jetzt falle ich nicht mehr sofort auf das Sofa, sobald ich nach Hause komme.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_dHn4pi",
-        "column_XPaUpw",
-        "column_gHTp7F",
-        "column_GUTLcF",
-        "column_pBhJGa",
-        "column_c9kCzC"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "ÜBER <strong>15.000 ZUFRIEDENE</strong> PROFIS",
-        "title_highlight_color": "#ffd705",
-        "heading_size": "h2",
-        "button_label": "",
-        "button_link": "",
-        "atc_button_label": "",
-        "atc_product": "",
-        "atc_skip_cart": false,
-        "color_scheme": "background-1",
-        "cards_color_scheme": "bg-overlay",
-        "cards_corner_radius": 20,
-        "stretch_cards": false,
-        "stretched_cards_content_alignment": "center",
-        "image_width": "full",
-        "image_ratio": "square",
-        "media_position": "top",
-        "column_alignment": "center",
-        "desktop_heading_size": 24,
-        "mobile_heading_size": 22,
-        "desktop_text_size": 16,
-        "mobile_text_size": 15,
-        "desktop_text_top_margin": 10,
-        "mobile_text_top_margin": 10,
-        "desktop_container_padding_y": 24,
-        "desktop_container_padding_x": 24,
-        "mobile_container_padding_y": 24,
-        "mobile_container_padding_x": 24,
-        "type": "slide",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "columns_desktop": 3,
-        "slider_desktop": false,
-        "per_move_desktop": 1,
-        "desktop_spacing": 40,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "columns_mobile": "1",
-        "slider_mobile": true,
-        "enable_mobile_preview": false,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d",
-        "custom_cards_colors_background": "#f3f3f3",
-        "custom_cards_gradient_background": "",
-        "custom_cards_colors_heading": "#222126",
-        "custom_cards_colors_text": "#2e2a39"
-      }
-    },
     "horizontal_ticker_aTTbPx": {
       "type": "horizontal-ticker",
       "blocks": {
@@ -960,6 +814,151 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36
+      }
+    },
+    "multicolumn_hwXViX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dHn4pi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1750679902__0__Hs4_OgOy__IMG-20250623-WA0015__original_2.avif",
+            "muted_autoplay": true,
+            "title": "Mark T.",
+            "text": "<p>Früher hatte ich schon bis zum Mittag richtige Fersenschmerzen, und in den letzten Stunden habe ich nur noch die Schritte bis nach Hause gezählt. In der ersten Woche mit diesen Schuhen habe ich sofort gemerkt, dass ich am Ende der Schicht nicht mehr zum Auto hinke. Immer noch ein langer Tag auf Beton, aber meine Füße fühlen sich nicht mehr zertrümmert an.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XPaUpw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/zNRM-t9IC.jpg",
+            "muted_autoplay": true,
+            "title": "Matt D.",
+            "text": "<p>Meine alten Stiefel fühlten sich an, als würde ich Ziegel schleppen, besonders wenn man den ganzen Tag ein- und aus dem Van steigt. Diese hier fühlen sich sofort leichter an, sobald man sie anzieht, und es verändert wirklich, wie man sich bewegt. Am Ende des Tages fühlen sich meine Beine weniger schwer an, und ich sehe dem nächsten Einsatz nicht mehr mit Grauen entgegen – das sagt schon alles.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gHTp7F": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_d2isqvd2isqvd2is_1_68304eeb-a3be-4342-92ee-e3cbfb6cc02a.webp",
+            "muted_autoplay": true,
+            "title": "Michael R.",
+            "text": "<p>Ich hatte es satt, bei Regen ständig wegzurutschen. Man merkt gar nicht, wie angespannt man ist, bis man es nicht mehr ist. Diese Schuhe stehen fest. Auf nassen Brettern und matschigem Boden mache ich nicht mehr diesen kleinen ‚Whoa‘-Schritt den ganzen Tag, um nicht hinzufallen.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GUTLcF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Titre_17_fc27e648-cdc4-4a93-94b8-3f10cf79ce22.jpg",
+            "muted_autoplay": true,
+            "title": "James R.",
+            "text": "<p>Ich hatte immer schmerzende Fußgewölbe und Druckstellen unter dem Fußballen, erst ‚meh‘, dann richtig nervig bis zum Nachmittag. Mit diesen Schuhen hat man tatsächlich Unterstützung unter den Füßen, nicht nur ein flaches Brett. Ich kann auf der Leiter stehen, wieder runter, herumstehen – am Ende des Tages brennen die Füße nicht mehr.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pBhJGa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fDklscE5Sj6HezY_1.jpg",
+            "muted_autoplay": true,
+            "title": "Chris L.",
+            "text": "<p>Ich hatte immer Scheuerstellen an Zehen und Seiten, dann läuft man den ganzen Tag ‚komisch‘, um es zu vermeiden. Das zermürbt einen: ständige Reizungen, nicht ein großer Schmerz. Diese passen perfekt, und ich habe keine einzige Blase bekommen. Am besten ist: Ich denke nicht mehr über meine Füße nach.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_c9kCzC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CTSpQRWtYbA5Xyz.jpg",
+            "muted_autoplay": true,
+            "title": "Brian T.",
+            "text": "<p>Früher kam ich nach Hause und meine Füße ‚summten‘ noch, als würden sie vom Boden vibrieren. Schwer zu erklären, wenn man nicht lange Tage auf Beton gemacht hat. Diese Schuhe sind gedämpft auf eine Weise, die wirklich die ganze Schicht anhält. Jetzt falle ich nicht mehr sofort auf das Sofa, sobald ich nach Hause komme.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dHn4pi",
+        "column_XPaUpw",
+        "column_gHTp7F",
+        "column_GUTLcF",
+        "column_pBhJGa",
+        "column_c9kCzC"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "ÜBER <strong>15.000 ZUFRIEDENE</strong> PROFIS",
+        "title_highlight_color": "#ffd705",
+        "heading_size": "h2",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "cards_color_scheme": "bg-overlay",
+        "cards_corner_radius": 20,
+        "stretch_cards": false,
+        "stretched_cards_content_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "square",
+        "media_position": "top",
+        "column_alignment": "center",
+        "desktop_heading_size": 24,
+        "mobile_heading_size": 22,
+        "desktop_text_size": 16,
+        "mobile_text_size": 15,
+        "desktop_text_top_margin": 10,
+        "mobile_text_top_margin": 10,
+        "desktop_container_padding_y": 24,
+        "desktop_container_padding_x": 24,
+        "mobile_container_padding_y": 24,
+        "mobile_container_padding_x": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_heading": "#222126",
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "related-products": {
@@ -1579,9 +1578,9 @@
     "logo_list_6mGdgx",
     "image_banner_dYfgcj",
     "image_slider_xWQjkD",
-    "multicolumn_hwXViX",
     "horizontal_ticker_aTTbPx",
     "main",
+    "multicolumn_hwXViX",
     "related-products",
     "image_with_text_3LrVLn",
     "icon_bar_gXAzG7",
