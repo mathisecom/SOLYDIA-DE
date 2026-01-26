@@ -1015,12 +1015,11 @@
         "text_HDpdLb",
         "button_UfQLXK"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/1_480x480_1e0e1a1e-ca43-4a81-8687-ca523ef40922.webp",
+        "image": "shopify://shop_images/montante4_2a42a1dd-8a7b-46e5-8d27-0dca50ba4c66.webp",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -1100,7 +1099,6 @@
         "column_fpbQyL",
         "column_PyCGfz"
       ],
-      "disabled": true,
       "name": "Icon Bar",
       "settings": {
         "display_id": false,
@@ -1178,12 +1176,11 @@
         "text_gqLjm9",
         "button_YHCfam"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Titre_19_d55f873b-7a02-4164-bca7-0b6e125fc384.jpg",
+        "image": "shopify://shop_images/ajustement_millimetrique.webp",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -1245,7 +1242,6 @@
         "text_9aDMEr",
         "button_ybQ9GX"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
