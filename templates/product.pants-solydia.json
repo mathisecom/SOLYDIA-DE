@@ -448,7 +448,7 @@
         "custom_liquid_dxycBy": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "Die <b>SOLYDIA™ FLEX HOSE</b> vereinen die Strapazierfähigkeit professioneller Arbeitskleidung mit dem Komfort von Kleidung, die Sie den ganzen Tag über in Bewegung hält."
+            "custom_liquid": "<span style=\"font-size: 1.3rem;\">\n  Die <b>SOLYDIA™ FLEX HOSE</b> vereinen die Strapazierfähigkeit professioneller Arbeitskleidung mit dem Komfort von Kleidung, die Sie den ganzen Tag über in Bewegung hält.\n</span>"
           }
         },
         "bf_size_charts_block_paQHin": {
