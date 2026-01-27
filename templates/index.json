@@ -608,7 +608,7 @@
             "top_text_4": "",
             "bottom_text_4": "",
             "date_format": "mm_dd",
-            "days_labels": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+            "days_labels": "Mont, Dien, Mitt, Don, Fre, Sam, Son",
             "months_labels": "Jan, Feb, März, Apr, May, Juni, Juli, Aug, Sep, Okt, Nov, Dez",
             "color_scheme": "inverse",
             "margin_top": 24,
