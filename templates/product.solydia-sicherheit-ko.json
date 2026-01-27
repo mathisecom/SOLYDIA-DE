@@ -495,6 +495,7 @@
         "column_fe9CA3",
         "column_KAnWFi"
       ],
+      "disabled": true,
       "name": "Icon Bar",
       "settings": {
         "display_id": false,
@@ -546,14 +547,13 @@
         "text_NpahEW": {
           "type": "text",
           "settings": {
-            "title": "WINTERSCHLUSSVERKAUF - 1 GEKAUFT = 1 GRATIS"
+            "title": "WINTERSCHLUSSVERKAUF"
           }
         }
       },
       "block_order": [
         "text_NpahEW"
       ],
-      "disabled": true,
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
