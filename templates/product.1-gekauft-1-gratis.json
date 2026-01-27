@@ -1033,6 +1033,101 @@
         "desktop_padding_bottom": 36
       }
     },
+    "icon_bar_4U3fyh": {
+      "type": "icon-bar",
+      "blocks": {
+        "column_bTBCR3": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-27T155014.228.jpg",
+            "title": "",
+            "text": "<h5>30 Tage Rückgaberecht</h5>"
+          }
+        },
+        "column_gyD6Hc": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-27T154848.185.jpg",
+            "title": "",
+            "text": "<h5>Sicherer Versand aus Europa</h5>"
+          }
+        },
+        "column_4UPiVE": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-27T154800.224.jpg",
+            "title": "",
+            "text": "<h5>Zertifiziert nach EN ISO 20345</h5>"
+          }
+        },
+        "column_iczCLy": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-27T154716.194.jpg",
+            "title": "",
+            "text": "<h5>Kundensupport auf Deutsch</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "column_bTBCR3",
+        "column_gyD6Hc",
+        "column_4UPiVE",
+        "column_iczCLy"
+      ],
+      "name": "Icon Bar",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "icon_layout": "vertical",
+        "icon_size": "large",
+        "icon_color": "accent-1",
+        "cards_color_scheme": "background-1",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 4,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "2",
+        "slider_mobile": false,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -1652,6 +1747,7 @@
     "multicolumn_hwXViX",
     "horizontal_ticker_aTTbPx",
     "main",
+    "icon_bar_4U3fyh",
     "related-products",
     "image_with_text_3LrVLn",
     "icon_bar_gXAzG7",
