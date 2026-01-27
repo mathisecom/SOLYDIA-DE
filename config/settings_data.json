@@ -718,7 +718,8 @@
       " /* Animation pulse */@keyframes pulse {0% {opacity: 0.4; } 50% {opacity: 1; } 100% {opacity: 0.4; }}",
       ".pulse {animation: pulse 1.5s infinite;}",
       ".atc-bundle-sor__stock-message {text-align: center;}",
-      ".atc-bundle-sor__stock-message p {margin: 0 auto;}"
+      ".atc-bundle-sor__stock-message p {margin: 0 auto;}",
+      ".atc-bundle-sor__benefit span {font-size: 1.9rem;}"
     ]
   }
 }
