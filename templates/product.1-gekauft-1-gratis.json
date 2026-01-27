@@ -35,25 +35,11 @@
     "rich_text_edLCk3": {
       "type": "rich-text",
       "blocks": {
-        "heading_eDQVKn": {
-          "type": "heading",
-          "settings": {
-            "title": "Talk about your brand",
-            "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
-          }
-        },
-        "text_XgJBXr": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
         "button_HPQd9q": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Jetzt prüfen, ob sie für deinen Job passen",
+            "button_link": "#shopify-section-template--18822167560266__main",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -62,8 +48,6 @@
         }
       },
       "block_order": [
-        "heading_eDQVKn",
-        "text_XgJBXr",
         "button_HPQd9q"
       ],
       "name": "t:sections.rich-text.presets.name",
