@@ -32,6 +32,42 @@
         "show_text_below": true
       }
     },
+    "rich_text_Mjdh9f": {
+      "type": "rich-text",
+      "blocks": {
+        "button_rNXrhk": {
+          "type": "button",
+          "settings": {
+            "button_label": "JETZT PRÜFEN, OB SIE FÜR DEINEN JOB PASSEN",
+            "button_link": "#shopify-section-template--18381787562058__featured_product_87TDcn",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_rNXrhk"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "logo_list_mgXUmm": {
       "type": "logo-list",
       "blocks": {
@@ -74,6 +110,7 @@
         "logo_ii9pWi",
         "logo_7NVaey"
       ],
+      "disabled": true,
       "name": "Featured on",
       "settings": {
         "display_id": false,
@@ -1463,6 +1500,7 @@
   },
   "order": [
     "image_banner_CWeh3y",
+    "rich_text_Mjdh9f",
     "logo_list_mgXUmm",
     "image_banner_T3FU44",
     "rich_text_nAe8Vc",
