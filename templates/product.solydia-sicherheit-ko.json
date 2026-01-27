@@ -15,9 +15,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_12.jpg",
+        "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_13.jpg",
         "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/MEILLEURE_OFFRE_DE_L_ANNEe_16.jpg",
+        "image_2": "shopify://shop_images/MEILLEURE_OFFRE_DE_L_ANNEe_17.jpg",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -60,9 +60,9 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -158,6 +158,46 @@
         "show_text_below": true
       }
     },
+    "rich_text_9TR7zd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_R7hkWF": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>GETESTET UNTER</strong> REALEN BEDINGUNGEN!",
+            "title_highlight_color": "#ffd705",
+            "heading_size": "h2"
+          }
+        },
+        "text_hpVY9b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Getestet von Arbeitern in Bau, Lager und Industrie über mehrere Wochen.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_R7hkWF",
+        "text_hpVY9b"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 28,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "image_slider_xWQjkD": {
       "type": "image-slider",
       "blocks": {
@@ -225,7 +265,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "<strong>GETESTET UNTER</strong> REALEN BEDINGUNGEN!",
+        "title": "",
         "title_highlight_color": "#ffd705",
         "heading_size": "h2",
         "color_scheme": "background-1",
@@ -257,7 +297,7 @@
         "mobile_adaptive_height": false,
         "mobile_dots_position": "under",
         "mobile_arrows_position": "sides",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
@@ -1601,6 +1641,7 @@
     "rich_text_eMbeUr",
     "logo_list_6mGdgx",
     "image_banner_dYfgcj",
+    "rich_text_9TR7zd",
     "image_slider_xWQjkD",
     "multicolumn_hwXViX",
     "horizontal_ticker_aTTbPx",
