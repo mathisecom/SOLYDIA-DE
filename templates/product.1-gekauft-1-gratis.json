@@ -158,6 +158,46 @@
         "show_text_below": true
       }
     },
+    "rich_text_bknEtz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AQPtRR": {
+          "type": "heading",
+          "settings": {
+            "title": "Talk about your brand",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_H6pkMq": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>Getestet von Arbeitern in Bau, Lager und Industrie über mehrere Wochen.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AQPtRR",
+        "text_H6pkMq"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "image_slider_xWQjkD": {
       "type": "image-slider",
       "blocks": {
@@ -1607,6 +1647,7 @@
     "rich_text_edLCk3",
     "logo_list_6mGdgx",
     "image_banner_dYfgcj",
+    "rich_text_bknEtz",
     "image_slider_xWQjkD",
     "multicolumn_hwXViX",
     "horizontal_ticker_aTTbPx",
