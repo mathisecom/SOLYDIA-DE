@@ -584,6 +584,7 @@
         },
         "shipping_checkpoints_tYRpMH": {
           "type": "shipping_checkpoints",
+          "disabled": true,
           "settings": {
             "icon_1": "add_shopping_cart",
             "filled_icon_1": false,
@@ -730,6 +731,7 @@
         },
         "collapsible_tab_jEAakU": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Versand & Sendungsverfolgung",
             "heading_size": "medium",
