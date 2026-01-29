@@ -1410,55 +1410,56 @@
         "collapsible_row_WHRHgr": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Wie funktioniert das Drehverschluss-System?",
+            "heading": "Hält die SOLYDIA™ FLEX Arbeitshose wirklich intensiver Beanspruchung stand?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Das Drehverschluss-System funktioniert über einen Drehknopf, den Sie im Uhrzeigersinn drehen, um den Schuh zu schließen, und gegen den Uhrzeigersinn, um ihn zu lockern. Diese Technologie ermöglicht eine präzise Einstellung in nur 2 Sekunden und bietet deutlich mehr Genauigkeit und Schnelligkeit als herkömmliche Schnürsenkel.</p>",
+            "row_content": "<p>Ja, die Hose ist mit hochbelastbaren Ripstop-Nylon-Nähten gegen Risse gefertigt. Viele Fachleute (Klempner, Maurer, Fliesenleger) berichten von täglichem Gebrauch über 4 bis 6 Monate ohne merklichen Verschleiß, selbst in empfindlichen Bereichen wie Knien und Schritt.</p>",
             "page": ""
           }
         },
         "collapsible_row_m6ny9y": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Worin unterscheidet es sich von meinen aktuellen Sicherheitsschuhen?",
+            "heading": "Reduziert das Stretch-Material wirklich Bewegungseinschränkungen?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Die SOLYDIA MaxOne sind wasserabweisend und WR-zertifiziert (Water Resistant). Sie bieten effektiven Schutz gegen:</p><ul><li>Regen<br/></li><li>Wasserspritzer<br/></li><li>Verschüttetes Wasser<br/></li><li>Nasse Oberflächen</li></ul><p>Perfekt für alle Berufe, die Feuchtigkeit ausgesetzt sind.</p>",
+            "row_content": "<p>Das 4-Wege-Stretch-Material bietet totale Bewegungsfreiheit in alle Richtungen. Ob Sie sich bücken, hocken oder klettern – die Hose bewegt sich mit Ihrem Körper, ohne zu ziehen oder einzuengen, was die Ermüdung am Ende des Tages reduziert.</p>",
             "page": ""
           }
         },
         "collapsible_row_9ywhYd": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Entsprechen die SOLYDIA wirklich der S3-Norm?",
+            "heading": "Hält die Hose im Winter wirklich warm?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Die SOLYDIA sind S3-zertifiziert und somit für alle anspruchsvollen Arbeitsumgebungen geeignet:<br/><br/>✓ Harte Böden (Beton, Fliesen, Asphalt)<br/><br/>✓ Lange Stehzeiten (6–12+ Stunden)<br/><br/>✓ Intensives Gehen (10.000+ Schritte/Tag)<br/><br/>✓ Umgang mit schweren Lasten<br/><br/>✓ Nasse oder fettige Oberflächen (SRC-zertifiziert)<br/><br/>✓ Gefahr durch herabfallende Gegenstände<br/><br/>✓ Durchtrittsgefahr</p><p>Egal, ob Sie drinnen oder draußen arbeiten – sie erfüllen alle Anforderungen der S3-Zertifizierung.</p>",
+            "row_content": "<p>Ja, dank des thermischen Fleece-Futters hält sie die Körperwärme effektiv, selbst bei Minustemperaturen. Das atmungsaktive Material leitet gleichzeitig Schweiß ab und vermeidet so die unangenehme Feuchtigkeit minderwertiger gefütterter Hosen.</p>",
             "page": ""
           }
         },
         "collapsible_row_Vy8JiA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Kann ich sie den ganzen Tag schmerzfrei tragen?",
+            "heading": "Ist die Wasserdichtigkeit unter echten Arbeitsbedingungen wirksam?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Das rotierende Schnürsystem funktioniert über einen Drehknopf: Im Uhrzeigersinn drehen, um den Schuh zu schließen, gegen den Uhrzeigersinn, um ihn zu lockern. </p><p>Diese Technologie ermöglicht eine präzise, millimetergenaue Anpassung in nur 2 Sekunden und bietet deutlich mehr Geschwindigkeit und Genauigkeit im Vergleich zu herkömmlichen Schnürsenkeln.</p>",
+            "row_content": "<p>Das wasserdichte und atmungsaktive Material weist Wasser, Regen und Spritzer effektiv ab. Wasser perlt an der Oberfläche ab, ohne einzudringen, sodass Sie bei Arbeiten im Freien oder bei nassem Wetter trocken bleiben, während die Körperwärme dennoch entweichen kann.</p>",
             "page": ""
           }
         },
         "collapsible_row_aqXXVA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Hält das Sneaker-Design auf der Baustelle stand?",
+            "heading": "Wie viele Taschen hat die Hose und sind sie praktisch?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Unsere Sneaker sind 45 % leichter als herkömmliche Sicherheitsschuhe und bieten dennoch den gleichen S3-Schutz. </p><p>Die Einlegesohle aus hochdichtem Memory-Schaum beseitigt Fußschmerzen, und das moderne Design sieht aus wie echte Sneaker. </p><p>Sie erhalten das gleiche Sicherheitsniveau bei revolutionärem Komfort und Stil.</p>",
+            "row_content": "<p>Die Hose verfügt über 8 ultrapraktische, ergonomisch gestaltete Taschen. Sie sind geräumig und gut positioniert, um Ihre täglichen Werkzeuge (Multimeter, Maßband, Handy usw.) aufzunehmen, ohne Ihre Bewegungen einzuschränken.</p>",
             "page": ""
           }
         },
         "collapsible_row_xVNLDb": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Wie wähle ich meine Schuhgröße?",
             "icon": "",
