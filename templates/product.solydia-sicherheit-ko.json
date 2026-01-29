@@ -738,6 +738,7 @@
         },
         "e0a0b690-50df-4ca4-acfd-ce2980696cce": {
           "type": "shipping_checkpoints",
+          "disabled": true,
           "settings": {
             "icon_1": "add_shopping_cart",
             "filled_icon_1": false,
@@ -925,6 +926,7 @@
         },
         "collapsible_tab_UyLc3e": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Garantie & Rücksendungen",
             "heading_size": "medium",
