@@ -1527,6 +1527,7 @@
         "collapsible_row_LGQth8",
         "collapsible_row_mcHAgh"
       ],
+      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "display_id": false,
