@@ -1134,9 +1134,9 @@
           "type": "column",
           "settings": {
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Regelmäßiger Läufer",
+            "text": "<p>Ich laufe regelmäßig und habe viele Einlegesohlen ausprobiert. Seit ich diese benutze, habe ich meine Leistung gesteigert und erhole mich schneller. Ich empfehle sie allen Läufern, die ihre Füße schützen und Fortschritte machen wollen.</p>",
+            "author": "<em><strong>Tom M.</strong></em>"
           }
         }
       },
