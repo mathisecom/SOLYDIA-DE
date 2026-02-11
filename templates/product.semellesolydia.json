@@ -772,9 +772,8 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Rutschfest",
+            "heading": "Kleine Füße? Zwischen zwei Größen?",
             "heading_size": "medium",
             "icon": "crop",
             "filled_icon": false,
@@ -789,9 +788,8 @@
         },
         "collapsible_tab_Nx7iNL": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Größentabelle",
+            "heading": "Passen sie in meine Schuhe?",
             "heading_size": "medium",
             "icon": "falling",
             "filled_icon": false,
@@ -806,9 +804,8 @@
         },
         "collapsible_tab_LyeMBV": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Wasserdicht",
+            "heading": "Lindern sie wirklich meine Schmerzen?",
             "heading_size": "medium",
             "icon": "invert_colors_off",
             "filled_icon": false,
@@ -823,9 +820,8 @@
         },
         "collapsible_tab_ki8Pnm": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Für welche Umgebungen?",
+            "heading": "Wie lange halten sie?",
             "heading_size": "medium",
             "icon": "nest_eco_leaf",
             "filled_icon": false,
@@ -1040,9 +1036,9 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     },
     "image_with_text_3LrVLn": {
@@ -1155,7 +1151,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "",
         "color_scheme": "background-1",
@@ -1192,12 +1188,12 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "image_with_text_f9FpFg": {
@@ -1247,13 +1243,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -1264,7 +1260,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Der SOLYDIA™ Unterschied",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "<p>Erleben Sie die Veränderung selbst und machen Sie den ersten Schritt zu einem schmerzfreien Leben.</p>",
         "button_label": "",
@@ -1284,9 +1280,9 @@
         "after_image": "shopify://shop_images/Right_1.webp",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -1563,7 +1559,7 @@
         "color_scheme": "background-1",
         "layout": "results_second",
         "results_headline": "",
-        "results_title_highlight_color": "#6D388B",
+        "results_title_highlight_color": "#6d388b",
         "results_headline_size": "h2",
         "results_text": "",
         "results_headline_alignment": "left",
@@ -1576,9 +1572,9 @@
         "atc_skip_cart": false,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_accent": "#dd1d1d",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
@@ -1756,7 +1752,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Warum Experten SOLYDIA™ Empfehlen",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h2",
         "text": "",
         "color_scheme": "background-1",
@@ -1793,12 +1789,12 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "collapsible_content_gafmhp": {
