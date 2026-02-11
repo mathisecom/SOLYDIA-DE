@@ -1054,6 +1054,94 @@
         "custom_section_gradient_background": ""
       }
     },
+    "testimonials_HAGTJK": {
+      "type": "testimonials",
+      "blocks": {
+        "column_EjJTUQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SALES_PAGE_VAR7.webp",
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_Ve774U": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/avis_lynda.webp",
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_nbJaUH": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        }
+      },
+      "block_order": [
+        "column_EjJTUQ",
+        "column_Ve774U",
+        "column_nbJaUH"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "show_stars": true,
+        "inactive_stars_style": "solid",
+        "star_color": "#00b67b",
+        "bg_star_color": "#ececec",
+        "show_quotes": false,
+        "quotes_color_scheme": "accent-2",
+        "cards_color_scheme": "bg-overlay",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
+    },
     "image_with_text_f9FpFg": {
       "type": "image-with-text",
       "blocks": {
@@ -1501,6 +1589,73 @@
         "custom_colors_others_text": "#2e2a39"
       }
     },
+    "testimonials_Jx4jVe": {
+      "type": "testimonials",
+      "blocks": {
+        "column_UcjmrL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Stepprs_Doctor.webp",
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        }
+      },
+      "block_order": [
+        "column_UcjmrL"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Warum Experten SOLYDIA™ Empfehlen",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "text": "",
+        "color_scheme": "background-1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "show_stars": false,
+        "inactive_stars_style": "solid",
+        "star_color": "#ffcc00",
+        "bg_star_color": "#ececec",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-2",
+        "cards_color_scheme": "bg-overlay",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
+        "slider_mobile": false,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
+    },
     "collapsible_content_gafmhp": {
       "type": "collapsible-content",
       "blocks": {
@@ -1658,12 +1813,14 @@
     "main",
     "related-products",
     "image_with_text_3LrVLn",
+    "testimonials_HAGTJK",
     "image_with_text_f9FpFg",
     "comparison_slider_yEUeLz",
     "icon_bar_gXAzG7",
     "image_with_text_yAEX6i",
     "image_with_text_jncfGr",
     "comparison_table_QyyqAG",
+    "testimonials_Jx4jVe",
     "collapsible_content_gafmhp"
   ]
 }
