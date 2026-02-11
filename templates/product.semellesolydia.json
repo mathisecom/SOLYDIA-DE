@@ -1062,7 +1062,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
-            "image": "shopify://shop_images/1_1_a18568bb-9e86-4f1a-9b6b-5a7f3fb14d09.webp",
+            "image": "shopify://shop_images/c5865eac-aff5-4277-b307-db66721d43f4.avif",
             "title": "GANZTÄGIGER KOMFORT",
             "text": "<p>Premium-Gel-Einlegesohlen mit breiterem Stahlkappen-Design für zusätzlichen Zehenraum und mehr Bewegungsfreiheit.</p>"
           }
@@ -1072,7 +1072,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
-            "image": "shopify://shop_images/3.webp",
+            "image": "shopify://shop_images/a896ce73-a9a3-4362-a06f-e92715dff161.avif",
             "title": "VOLLSTÄNDIGER SCHUTZ",
             "text": "<p>Stahlkappen, Knöchelschutz und Kevlar-anti-durchstichsicherer Sohle für umfassenden Fußschutz.</p>"
           }
@@ -1082,7 +1082,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
-            "image": "shopify://shop_images/4.webp",
+            "image": "shopify://shop_images/2eca47ad-ac3d-4047-a268-043f8ed0d9f7.avif",
             "title": "DIAL-SCHNÜRSYSTEM",
             "text": "<p>Schnelljustiertechnologie für eine perfekte Passform, ohne Schnürsenkel zu binden oder sich bücken zu müssen.</p>"
           }
@@ -1092,7 +1092,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
-            "image": "shopify://shop_images/2.webp",
+            "image": "shopify://shop_images/1e7e3c6d-c886-459b-9125-a0162b1ea652.avif",
             "title": "STILVOLLES DESIGN",
             "text": "<p>Modernes, sportliches Design, das nahtlos vom Arbeitsplatz in den Alltag übergeht.</p>"
           }
@@ -1108,13 +1108,13 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "GRÜNDE, WARUM DU ES LIEBEN WIRST…",
+        "title": "",
         "title_highlight_color": "#000000",
         "heading_size": "h2",
         "text": "",
         "color_scheme": "custom",
         "icon_layout": "vertical",
-        "icon_size": "large",
+        "icon_size": "medium",
         "icon_color": "accent-1",
         "cards_color_scheme": "background-1",
         "type": "slide",
