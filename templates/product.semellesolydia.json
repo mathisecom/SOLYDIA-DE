@@ -772,6 +772,7 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Rutschfest",
             "heading_size": "medium",
@@ -788,6 +789,7 @@
         },
         "collapsible_tab_Nx7iNL": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Größentabelle",
             "heading_size": "medium",
@@ -804,6 +806,7 @@
         },
         "collapsible_tab_LyeMBV": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Wasserdicht",
             "heading_size": "medium",
@@ -820,6 +823,7 @@
         },
         "collapsible_tab_ki8Pnm": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Für welche Umgebungen?",
             "heading_size": "medium",
@@ -836,6 +840,7 @@
         },
         "collapsible_tab_EPJNyJ": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Versand & Sendungsverfolgung",
             "heading_size": "medium",
@@ -1099,7 +1104,6 @@
         "column_fpbQyL",
         "column_PyCGfz"
       ],
-      "disabled": true,
       "name": "Icon Bar",
       "settings": {
         "display_id": false,
@@ -1112,7 +1116,7 @@
         "icon_layout": "vertical",
         "icon_size": "large",
         "icon_color": "accent-1",
-        "cards_color_scheme": "custom",
+        "cards_color_scheme": "background-1",
         "type": "slide",
         "autoplay": false,
         "autoplay_speed": 5,
@@ -1137,7 +1141,7 @@
         "mobile_arrows_position": "sides",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#f3f3f3",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#2e2a39",
         "custom_cards_colors_background": "#f3f3f3",
@@ -1340,7 +1344,6 @@
         "row_qcyDHA",
         "row_TiRQmy"
       ],
-      "disabled": true,
       "name": "Comparison table",
       "settings": {
         "display_id": false,
@@ -1551,29 +1554,6 @@
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2e2a39"
       }
-    },
-    "1763421347438721d8": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_BtHCnr": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": false
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_BtHCnr"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -1590,7 +1570,6 @@
     "image_with_text_yAEX6i",
     "image_with_text_jncfGr",
     "comparison_table_QyyqAG",
-    "collapsible_content_gafmhp",
-    "1763421347438721d8"
+    "collapsible_content_gafmhp"
   ]
 }
