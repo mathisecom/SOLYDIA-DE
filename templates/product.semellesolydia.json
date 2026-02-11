@@ -746,7 +746,7 @@
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>Unsere Schuhe fallen normal aus, wählen Sie daher bei der Bestellung einfach Ihre übliche Größe. </p><p>Wenn Sie zwischen zwei Größen liegen, empfehlen wir Ihnen, die größere Größe für zusätzlichen Komfort zu wählen. </p><p>Weitere Informationen finden Sie in unserer Größentabelle:</p>",
+            "content": "<p><strong>Ihr Fuß ist kleiner als unsere kleinste Größe?</strong></p><p>Bestellen Sie die kleinste Größe und schneiden Sie sie nach den Markierungen auf der Rückseite zu.</p><p><strong>Sie liegen zwischen zwei Größen?</strong></p><p>Nehmen Sie immer die größere Größe und passen Sie sie durch Zuschneiden an.</p><p>Einfach. Anpassbar. Für Sie gemacht.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
