@@ -1138,12 +1138,22 @@
             "text": "<p>Ich laufe regelmäßig und habe viele Einlegesohlen ausprobiert. Seit ich diese benutze, habe ich meine Leistung gesteigert und erhole mich schneller. Ich empfehle sie allen Läufern, die ihre Füße schützen und Fortschritte machen wollen.</p>",
             "author": "<em><strong>Tom M.</strong></em>"
           }
+        },
+        "column_iMpTwc": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "Bauarbeiter",
+            "text": "<p>Ich verbringe meine Tage auf Beton mit Sicherheitsschuhen. Diese Einlegesohlen absorbieren die Stöße perfekt und stützen meine Füße sehr gut. Meine Gelenke danken es mir. Ich bin begeistert von der Erleichterung. Ich habe allen meinen Kollegen davon erzählt.</p>",
+            "author": "<em><strong>Gino L.</strong></em>"
+          }
         }
       },
       "block_order": [
         "column_EjJTUQ",
         "column_Ve774U",
-        "column_nbJaUH"
+        "column_nbJaUH",
+        "column_iMpTwc"
       ],
       "name": "Testimonials",
       "settings": {
