@@ -987,6 +987,64 @@
         "padding_bottom": 24
       }
     },
+    "horizontal_ticker_GRkW9Q": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_bdX9dW": {
+          "type": "text",
+          "settings": {
+            "title": "✦ WINTERSCHLUSSVERKAUF -40% ✦"
+          }
+        },
+        "text_khUbeg": {
+          "type": "text",
+          "settings": {
+            "title": "ÜBER 15.000 ARBEITER IN BAU, LAGER & INDUSTRIE"
+          }
+        },
+        "text_3dxYXz": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        }
+      },
+      "block_order": [
+        "text_bdX9dW",
+        "text_khUbeg",
+        "text_3dxYXz"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 2,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 14,
+        "desktop_text_size": 18,
+        "italic_text": true,
+        "uppercase_text": true,
+        "bold_text": true,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "image_with_text_3LrVLn": {
       "type": "image-with-text",
       "blocks": {
@@ -1899,6 +1957,7 @@
     "horizontal_ticker_aTTbPx",
     "main",
     "related-products",
+    "horizontal_ticker_GRkW9Q",
     "image_with_text_3LrVLn",
     "testimonials_HAGTJK",
     "image_with_text_f9FpFg",
