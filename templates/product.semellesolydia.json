@@ -1533,7 +1533,7 @@
         "row_LYf9xw": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>24/7 KOMFORT</strong>",
+            "benefit": "<strong>Dämpfung</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1543,7 +1543,7 @@
         "row_iBmLTK": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>OHNE SCHNÜRSENKEL</strong>",
+            "benefit": "<strong>Atmungsaktiv</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1553,7 +1553,7 @@
         "row_Jbbdn4": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>LEICHT & ATMUNGSAKTIV</strong>",
+            "benefit": "<strong>Sofortige Erleichterung</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1563,7 +1563,7 @@
         "row_qcyDHA": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>STAHLSCHUTZKAPPE</strong>",
+            "benefit": "<strong>Fußgewölbeunterstützung</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1573,7 +1573,27 @@
         "row_TiRQmy": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>SCHMERZFREI & KOMFORTABEL</strong>",
+            "benefit": "<strong>Stoßabsorption</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_i3UFFD": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Schmerzlindernd</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_VhGfLm": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Teuer</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1586,7 +1606,9 @@
         "row_iBmLTK",
         "row_Jbbdn4",
         "row_qcyDHA",
-        "row_TiRQmy"
+        "row_TiRQmy",
+        "row_i3UFFD",
+        "row_VhGfLm"
       ],
       "name": "Comparison table",
       "settings": {
