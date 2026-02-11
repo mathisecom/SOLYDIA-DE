@@ -1054,6 +1054,63 @@
         "custom_section_gradient_background": ""
       }
     },
+    "image_with_text_f9FpFg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_MhTEx6": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>Schmerzfrei Gehen.</strong>",
+            "title_highlight_color": "#000000",
+            "heading_size": "h1"
+          }
+        },
+        "text_w6T86x": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ausgestattet mit integrierten Schaum-Massagepunkten wurde die <strong>SOLYDIA™ Massage-Einlegesohle</strong> entwickelt, um Plantarfasziitis, schwere Füße und Fersenschmerzen <strong>bereits beim ersten Schritt</strong> zu lindern.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MhTEx6",
+        "text_w6T86x"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video": "shopify://files/videos/fa08e56c368a4a1f834c8ddb89314112.HD-720p-3.0Mbps-44682181 (2).mp4",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
     "comparison_slider_yEUeLz": {
       "type": "comparison-slider",
       "name": "Before & After slider",
@@ -1601,6 +1658,7 @@
     "main",
     "related-products",
     "image_with_text_3LrVLn",
+    "image_with_text_f9FpFg",
     "comparison_slider_yEUeLz",
     "icon_bar_gXAzG7",
     "image_with_text_yAEX6i",
