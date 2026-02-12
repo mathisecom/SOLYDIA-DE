@@ -745,7 +745,7 @@
           "settings": {
             "heading": "Kleine Füße? Zwischen zwei Größen?",
             "heading_size": "medium",
-            "icon": "crop",
+            "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
@@ -761,7 +761,7 @@
           "settings": {
             "heading": "Passen sie in meine Schuhe?",
             "heading_size": "medium",
-            "icon": "falling",
+            "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
@@ -777,7 +777,7 @@
           "settings": {
             "heading": "Lindern sie wirklich meine Schmerzen?",
             "heading_size": "medium",
-            "icon": "invert_colors_off",
+            "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
@@ -793,7 +793,7 @@
           "settings": {
             "heading": "Wie lange halten sie?",
             "heading_size": "medium",
-            "icon": "nest_eco_leaf",
+            "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
