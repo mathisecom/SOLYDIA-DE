@@ -346,7 +346,7 @@
               "compare_price_color": "text",
               "display_single_item_prices": true,
               "enable_savings": true,
-              "savings_text": "<strong>(You save [amount])</strong>",
+              "savings_text": "<strong>(Sie sparen [amount])</strong>",
               "savings_color": "text",
               "quantity_font_size": 14,
               "quantity_container_padding": 0,
