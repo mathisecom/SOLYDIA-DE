@@ -1267,6 +1267,63 @@
         "custom_section_gradient_background": ""
       }
     },
+    "horizontal_ticker_ztRNKx": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_LDXBmG": {
+          "type": "text",
+          "settings": {
+            "title": "🌍 Weltweiter Versand mit Sendungsverfolgung"
+          }
+        },
+        "text_LLkaYy": {
+          "type": "text",
+          "settings": {
+            "title": "😊 Über 15.000 zufriedene Kunden"
+          }
+        },
+        "text_MAKzE8": {
+          "type": "text",
+          "settings": {
+            "title": "🛡️ 90-Tage Geld-zurück-Garantie"
+          }
+        }
+      },
+      "block_order": [
+        "text_LDXBmG",
+        "text_LLkaYy",
+        "text_MAKzE8"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 1.5,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 14,
+        "desktop_text_size": 14,
+        "italic_text": false,
+        "uppercase_text": true,
+        "bold_text": true,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      }
+    },
     "comparison_slider_yEUeLz": {
       "type": "comparison-slider",
       "name": "Before & After slider",
@@ -1971,6 +2028,7 @@
     "image_with_text_3LrVLn",
     "testimonials_HAGTJK",
     "image_with_text_f9FpFg",
+    "horizontal_ticker_ztRNKx",
     "comparison_slider_yEUeLz",
     "icon_bar_gXAzG7",
     "image_with_text_yAEX6i",
