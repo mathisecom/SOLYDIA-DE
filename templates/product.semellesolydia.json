@@ -1464,7 +1464,7 @@
           "settings": {
             "image": "shopify://shop_images/Nurse.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>Anderen dienen</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
@@ -1474,7 +1474,7 @@
           "settings": {
             "image": "shopify://shop_images/Warehouse.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>Langer Tag</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
@@ -1484,7 +1484,7 @@
           "settings": {
             "image": "shopify://shop_images/Park.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>Alltagsleben</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
@@ -1494,7 +1494,7 @@
           "settings": {
             "image": "shopify://shop_images/Running.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>Auf einem Abenteuer</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
@@ -1504,7 +1504,7 @@
           "settings": {
             "image": "shopify://shop_images/Forest.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>Lauf im Freien</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
@@ -1521,11 +1521,11 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Image/Video slider",
+        "title": "Für alle Einsatzzwecke konzipiert",
         "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "color_scheme": "background-1",
-        "type": "slide",
+        "type": "loop",
         "drag": "enabled",
         "autoplay": false,
         "autoplay_speed": 5,
