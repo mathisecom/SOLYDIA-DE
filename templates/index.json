@@ -556,7 +556,7 @@
           "settings": {
             "show_dynamic_checkout": false,
             "skip_cart": false,
-            "uppercase_text": true,
+            "uppercase_text": false,
             "icon_scale": 120,
             "icon_spacing": 10,
             "display_price": false,
