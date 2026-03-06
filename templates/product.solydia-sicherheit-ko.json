@@ -710,12 +710,13 @@
           "settings": {
             "show_dynamic_checkout": false,
             "skip_cart": false,
-            "uppercase_text": true,
+            "uppercase_text": false,
             "icon_scale": 120,
             "icon_spacing": 10,
             "display_price": false,
-            "enable_custom_color": false,
-            "custom_color": "#53af01",
+            "enable_custom_color": true,
+            "custom_color": "#28ae60",
+            "prefix_icon": "shopify://shop_images/cart-plus-svgrepo-com.svg",
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
@@ -1722,6 +1723,8 @@
         "loox_reviews_loox_dynamic_section_BtHCnr": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
             "only_photos": false,
             "aggregated": false,
             "limit": 12,
