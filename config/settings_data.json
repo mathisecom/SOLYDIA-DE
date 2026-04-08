@@ -182,28 +182,28 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "swatches_predefined_colors": "Black = #000000,\nWhite = #FFFFFF,\nRed = #FF0000,\nBlue = #0000FF,\nGreen = #008000,\nYellow = #FFFF00,\nOrange = #FFA500,\nPurple = #800080,\nPink = #FFC0CB,\nBrown = #A52A2A,\nGray = #808080,\nNavy = #000080,\nTeal = #008080,\nMaroon = #800000,\nOlive = #808000,\nLime = #00FF00,\nAqua = #00FFFF,\nSilver = #C0C0C0,\nGold = #FFD700,\nBeige = #F5F5DC,",
-    "checkout_accent_color": "#dd1d1d",
-    "checkout_button_color": "#dd1d1d",
-    "fav_collection": "GGkLhoTOiV67l21Pb1r8JxbwGAkXLmer7YrABSJ9+A9EXpMu2rSrjF9lHa0vqrWGeeDHu7qtpr+mgxIPPKrM0ejIby9ZNuJF4dFk6amcBZ0jotWApqjdOhQIhMWQVZ0794EEN3Gp6q+hiFhBjWHj1+pTBR3xtiz1jODSHRCNTCGlXN7Iu8CDFs/VLut3g5H43vDSZMIwAJMurqV3IK5GOHTrH1NdIVG0H3QcA9//zSQlxswDRMsm5bamaw9MygihDMlZQ6QlPFSP2VFmaUrRhvwHgDWkOcFtLkvV1HQqnzdRA3AbzmzffCiXn1Gkd7DwMBp/kXuCvSCHt9TT0ZQbA5CyZBX5SXu5n3utfkf4ZEYF+ckSufFydtJWhrRuDGuKYruLRto9jNPdruIZvchs7Q==",
-    "show_cart_payment_badges": false,
-    "cart_trust_badges_width": 100,
-    "enable_cart_discount": false,
-    "enable_cart_timer": true,
-    "cart_timer_text": "<strong>Cart reserved for [timer] more minutes!</strong>",
-    "enable_cart_progress_bar": true,
+    "cart_progress_icon": "local_shipping",
     "cart_progress_message": "Spend [amount] more to get FREE shipping!",
     "cart_progress_success_message": "Congrats! You get FREE shipping! 🎉",
-    "cart_progress_icon": "local_shipping",
-    "enable_cart_upsell_1": false,
-    "cart_upsell_1_product": "thedogface-designer-dog-jacket",
+    "cart_timer_text": "<strong>Cart reserved for [timer] more minutes!</strong>",
+    "cart_trust_badges_width": 100,
     "cart_upsell_1_btn_label": "+ Add",
-    "enable_cart_upsell_2": false,
+    "cart_upsell_1_product": "thedogface-designer-dog-jacket",
+    "cart_upsell_2_btn_label": "+ Add",
+    "cart_upsell_2_desc": "",
     "cart_upsell_2_product": "",
     "cart_upsell_2_title": "",
-    "cart_upsell_2_desc": "",
-    "cart_upsell_2_btn_label": "+ Add",
+    "checkout_accent_color": "#dd1d1d",
+    "checkout_button_color": "#dd1d1d",
+    "enable_cart_discount": false,
+    "enable_cart_progress_bar": true,
+    "enable_cart_timer": true,
+    "enable_cart_upsell_1": false,
+    "enable_cart_upsell_2": false,
+    "fav_collection": "GGkLhoTOiV67l21Pb1r8JxbwGAkXLmer7YrABSJ9+A9EXpMu2rSrjF9lHa0vqrWGeeDHu7qtpr+mgxIPPKrM0ejIby9ZNuJF4dFk6amcBZ0jotWApqjdOhQIhMWQVZ0794EEN3Gp6q+hiFhBjWHj1+pTBR3xtiz1jODSHRCNTCGlXN7Iu8CDFs/VLut3g5H43vDSZMIwAJMurqV3IK5GOHTrH1NdIVG0H3QcA9//zSQlxswDRMsm5bamaw9MygihDMlZQ6QlPFSP2VFmaUrRhvwHgDWkOcFtLkvV1HQqnzdRA3AbzmzffCiXn1Gkd7DwMBp/kXuCvSCHt9TT0ZQbA5CyZBX5SXu5n3utfkf4ZEYF+ckSufFydtJWhrRuDGuKYruLRto9jNPdruIZvchs7Q==",
     "section_animation_type": "none",
+    "show_cart_payment_badges": false,
+    "swatches_predefined_colors": "Black = #000000,\nWhite = #FFFFFF,\nRed = #FF0000,\nBlue = #0000FF,\nGreen = #008000,\nYellow = #FFFF00,\nOrange = #FFA500,\nPurple = #800080,\nPink = #FFC0CB,\nBrown = #A52A2A,\nGray = #808080,\nNavy = #000080,\nTeal = #008080,\nMaroon = #800000,\nOlive = #808000,\nLime = #00FF00,\nAqua = #00FFFF,\nSilver = #C0C0C0,\nGold = #FFD700,\nBeige = #F5F5DC,",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -543,8 +543,18 @@
         "disabled": false,
         "settings": {}
       },
+      "11532412952436166569": {
+        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "disabled": false,
+        "settings": {}
+      },
       "17198465164502963513": {
         "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+        "disabled": false,
+        "settings": {}
+      },
+      "614273809364550299": {
+        "type": "shopify://apps/gempages-cro/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3",
         "disabled": false,
         "settings": {}
       },
@@ -552,13 +562,27 @@
         "type": "shopify://apps/rapi/blocks/app-embed/99617c17-a32b-4e70-a883-7a155610d032",
         "disabled": false,
         "settings": {}
-      },
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
-        "settings": {}
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".atc-bundle-sor__benefit {display: flex; align-items: center; /* aligne le tick avec le texte */ gap: 8px; /* espace entre le tick et le texte */}",
+      ".atc-bundle-sor__benefit-icon {display: flex; align-items: center; justify-content: center; flex-shrink: 0; /* empêche le tick de se déformer */}",
+      ".atc-bundle-sor__benefit span {line-height: 1.4; /* texte bien aligné verticalement */}",
+      " /* Bloc stock global */.atc-bundle-sor__stock-info {margin-top: 12px; font-size: 13px; color: #111;}",
+      " /* Header stock */.atc-bundle-sor__stock-header {display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;}",
+      ".atc-bundle-sor__stock-left {display: flex; align-items: center; gap: 6px;}",
+      " /* Barre de stock */.atc-bundle-sor__stock-bar {width: 100%; height: 8px; background: #e6e6e6; border-radius: 999px; overflow: hidden; margin: 6px 0 10px;}",
+      " /* Progression */.atc-bundle-sor__stock-progress {height: 100%; background: linear-gradient(90deg, #008255, #00b37d); border-radius: 999px; transition: width 0.4s ease;}",
+      " /* Pourcentage */.atc-bundle-sor__stock-percentage {font-size: 12px; font-weight: 600; color: #008255;}",
+      " /* Message stock */.atc-bundle-sor__stock-message p {margin: 2px 0; font-size: 12px; line-height: 1.4;}",
+      " /* Animation pulse */@keyframes pulse {0% {opacity: 0.4; } 50% {opacity: 1; } 100% {opacity: 0.4; }}",
+      ".pulse {animation: pulse 1.5s infinite;}",
+      ".atc-bundle-sor__stock-message {text-align: center;}",
+      ".atc-bundle-sor__stock-message p {margin: 0 auto;}",
+      ".atc-bundle-sor__benefit span {font-size: 1.9rem;}"
+    ]
   },
   "presets": {
     "Default": {
@@ -703,24 +727,5 @@
         }
       }
     }
-  },
-  "platform_customizations": {
-    "custom_css": [
-      ".atc-bundle-sor__benefit {display: flex; align-items: center; /* aligne le tick avec le texte */ gap: 8px; /* espace entre le tick et le texte */}",
-      ".atc-bundle-sor__benefit-icon {display: flex; align-items: center; justify-content: center; flex-shrink: 0; /* empêche le tick de se déformer */}",
-      ".atc-bundle-sor__benefit span {line-height: 1.4; /* texte bien aligné verticalement */}",
-      " /* Bloc stock global */.atc-bundle-sor__stock-info {margin-top: 12px; font-size: 13px; color: #111;}",
-      " /* Header stock */.atc-bundle-sor__stock-header {display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;}",
-      ".atc-bundle-sor__stock-left {display: flex; align-items: center; gap: 6px;}",
-      " /* Barre de stock */.atc-bundle-sor__stock-bar {width: 100%; height: 8px; background: #e6e6e6; border-radius: 999px; overflow: hidden; margin: 6px 0 10px;}",
-      " /* Progression */.atc-bundle-sor__stock-progress {height: 100%; background: linear-gradient(90deg, #008255, #00b37d); border-radius: 999px; transition: width 0.4s ease;}",
-      " /* Pourcentage */.atc-bundle-sor__stock-percentage {font-size: 12px; font-weight: 600; color: #008255;}",
-      " /* Message stock */.atc-bundle-sor__stock-message p {margin: 2px 0; font-size: 12px; line-height: 1.4;}",
-      " /* Animation pulse */@keyframes pulse {0% {opacity: 0.4; } 50% {opacity: 1; } 100% {opacity: 0.4; }}",
-      ".pulse {animation: pulse 1.5s infinite;}",
-      ".atc-bundle-sor__stock-message {text-align: center;}",
-      ".atc-bundle-sor__stock-message p {margin: 0 auto;}",
-      ".atc-bundle-sor__benefit span {font-size: 1.9rem;}"
-    ]
   }
 }
