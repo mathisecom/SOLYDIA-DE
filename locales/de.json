@@ -469,6 +469,9 @@
       "alternative_payment_method_banner": {
         "or": "① Begrenzter Vorrat! Bestellen Sie, bevor es zu spät ist."
       }
+    },
+    "links": {
+      "powered_by_shopify": "‎ ‎ "
     }
   }
 }
